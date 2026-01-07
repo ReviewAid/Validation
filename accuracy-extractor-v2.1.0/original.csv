@@ -1,0 +1,2151 @@
+Record #,Full Citation,Title,Authors,Journal,Year,DOI,Category,Therapeutic area,Medical Condition,Concept of Interest,Outcome Assessment,Comparator Measure,Technology,Sensor(s),Make and Model,Wear location,Algorithm / Analysis Software,Sample size,Participant age,Participant gender
+30,"Author: Agarwal, V., Smuck, M. and Shah, N. H.
+Year: 2017
+Title: Quantifying the relative change in physical activity after Total Knee Arthroplasty using accelerometer based measurements
+Journal: AMIA Jt Summits Transl Sci Proc
+Volume: 2017
+Pages: 463-472
+",Quantifying the relative change in physical activity after Total Knee Arthroplasty using accelerometer based measurements,"Agarwal, V., Smuck, M., Shah, N.H.",AMIA Summits on Translational Science Proceedings,2017,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543365/,Algorithm development,Musculoskeletal; Orthopedics/Orthopedic Surgery; Rheumatology,Osteoarthritis,Physical activity patterns; Physical activity,Physical performance intervals; Activity counts per minute,,Wearable,Uni-axial accelerometer,"ActiGraph, GT1M",Hip,,32,Adults; Older Adults,Both
+32,"Author: Aghagolzadeh, M., Hochberg, L. R., Cash, S. S. and Truccolo, W.
+Year: 2016
+Title: Predicting seizures from local field potentials recorded via intracortical microelectrode arrays
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2016
+Pages: 6353-6356
+",Predicting seizures from local field potentials recorded via intracortical microelectrode arrays,"Aghagolzadeh, M., Hochberg, L. R., Cash, S. S. and Truccolo, W.",Conf Proc IEEE Eng Med Biol Soc,2016,https://doi.org/10.1109/EMBC.2016.7592181,Algorithm development,Neurology,Epilepsy ,Seizure prediction,Change in interictal state,,Implantable,Microelectrode array,"Blackrock Microsystems, NeuroPort",Brain,,1,Not specified,Not specified
+34,"Author: Agostini, V., Gastaldi, L., Rosso, V., Knaflitz, M. and Tadano, S.
+Year: 2017
+Title: A Wearable Magneto-Inertial System for Gait Analysis (H-Gait): Validation on Normal Weight and Overweight/Obese Young Healthy Adults
+Journal: Sensors (Basel)
+Volume: 17
+Issue: 10
+Epub Date: 2017/10/27
+",A Wearable Magneto-Inertial System for Gait Analysis (H-Gait): Validation on NormalWeight and Overweight/Obese Young Healthy Adults,"Agostini, V., Gastaldi, L., Rosso, V., Knaflitz, M., Tadano, S. ",Sensors,2017,http://doi.org/10.3390/s17102406,Algorithm development; Sensor performance,Musculoskeletal; Overweight/Obesity,Obesity,Gait,Gait timings; Joint kinematics,"Reference multichannel recording system (STEP32), providing direct measurements of gait timings via foot-switches; Joint angles in the sagittal plane via through electrogoniometers",Wearable sensor array,Tri-axial accelerometer; Tri-axial gyroscope; Tri-axial magnetometer,"ATR Promotions, TSDN121; AICHI STEEL, AMI306; InvenSense, MPU-6050",Pelvis; Lower limbs,SPSS v22.0,22,Adults,Male
+50,"Author: Al-Mardini, M., Aloul, F., Sagahyroon, A. and Al-Husseini, L.
+Year: 2014
+Title: Classifying obstructive sleep apnea using smartphones
+Journal: J Biomed Inform
+Volume: 52
+Pages: 251-9
+",Classifying obstructive sleep apnea using smartphones,"Al-Mardini, M., Aloul, F., Sagahyroon, A., Al-Husseini, L. ",Journal of Biomedical Informatics,2014,https://doi.org/10.1016/j.jbi.2014.07.004,Algorithm development; Sensor performance,Pulmonary/Respiratory; Sleep,Obstructive sleep apnea,Presence of obstructive sleep apnea,Oxygen level; Respiratory effort; Body movement,Polysomnography,Smart phone,Tri-axial accelerometer; Oximeter; Microphone,Samsung-Galaxy SII,,MATLAB,15,Not specified,Both
+61,"Author: Alharbi, M., Bauman, A., Neubeck, L. and Gallagher, R.
+Year: 2016
+Title: Validation of Fitbit-Flex as a measure of free-living physical activity in a community-based phase III cardiac rehabilitation population
+Journal: Eur J Prev Cardiol
+Volume: 23
+Issue: 14
+Pages: 1476-85
+",Validation of Fitbit-Flex as a measure of free-living physical activity in a community-based phase III cardiac rehabilitation population,"Alharbi, M., Bauman, M., Neubeck, L., Gallagher, R.",European Journal of Preventive Cardiology,2016,http://doi.org/10.1177/2047487316634883,Algorithm development; Sensor performance,Cardiology/Vascular,Coronary heart disease,Physical activity monitoring,Average daily step counts; Minutes per day of moderate to vigorous physical activity,"Tri-axial accelerometer, Actigraph GT3X",Wearable,Tri-axial accelerometer,"Fitbit, Flex",Wrist,,48,Adults; Older Adults,Both
+70,"Author: Almeida, G. J., Irrgang, J. J., Fitzgerald, G. K., Jakicic, J. M. and Piva, S. R.
+Year: 2016
+Title: Reliability of Physical Activity Measures During Free-Living Activities in People After Total Knee Arthroplasty
+Journal: Phys Ther
+Volume: 96
+Issue: 6
+Pages: 898-907
+",Reliability of Physical Activity Measures During Free-Living Activities in People After Total Knee Arthroplasty,"Almeida, G., Irrgang, J., Fitzgerald, G., Jakicic, J., Piva, S.",Physical Therapy,2015,http://doi.org/10.2522/ptj.20150407 ,Algorithm development; Sensor performance,Orthopedics/Orthopedic Surgery,Total knee arthroplasty,Physical activity monitoring,Duration of daily light physical activity; Duration of daily moderate to light physical activity; Duration of daily moderate activity; Daily number of steps,Community Healthy Activities Model Program for Seniors (CHAMPS) questionnaire,Wearable,Tri-axial accelerometer; Not specified,"ActiGraph, GT3X; BodyMedia, SenseWear-Pro3 Armband",Waist; Upper Arm,"ActiGraph, ActiLife software v5; BodyMedia v6.1",28,Adults; Older Adults,Both
+76,"Author: Alsaadi, S. M., McAuley, J. H., Hush, J. M., Bartlett, D. J., McKeough, Z. M., Grunstein, R. R., Dungan, G. C., 2nd and Maher, C. G.
+Year: 2014
+Title: Assessing sleep disturbance in low back pain: the validity of portable instruments
+Journal: PLoS One
+Volume: 9
+Issue: 4
+Pages: e95824
+",Assessing Sleep Disturbance in Low Back Pain: The Validity of Portable Instruments,"Alsaadi, S., McAuley, J., Hush, J., Bartlett, D.,  McKeough, Z., Grunstein, R., Dungan, G., Maher, C.",PLOS One,2014,https://doi.org/10.1371/journal.pone.0095824,Sensor performance,Musculoskeletal; Sleep,Low back pain,Sleep disturbance,Sleep interval detection; Total sleep time; Sleep efficiency; Wake after sleep onset; Sleep onset latency,Polysomnography,Wearable,Not specified; Accelerometer,"BodyMedia, SenseWear-Pro3 Armband; Philips Respironics, Actiwatch 2",Upper Arm; Wrist,SPSS v17.0; MedCalc for Windows v9.5.0.0,50,Adults,Both
+99,"Author: Andersson, M., Janson, C. and Emtner, M.
+Year: 2014
+Title: Accuracy of three activity monitors in patients with chronic obstructive pulmonary disease: a comparison with video recordings
+Journal: Copd
+Volume: 11
+Issue: 5
+Pages: 560-7
+",Accuracy of Three Activity Monitors in Patients with Chronic Obstructive Pulmonary Disease: A Comparison with Video Recordings,"Andersson, M., Janson, C., Emtner, M.",Journal of Chronic Obstructive Pulmonary Disease,2014,https://doi.org/10.3109/15412555.2014.898033,Algorithm development; Sensor performance,Pulmonary/Respiratory ,COPD,Physical activity monitoring,"Steps; Movement intensity; Energy Expenditure; Total Energy
+Expenditure; Active Energy Expenditure; Metabolic equivalents",Scored video,Wearable,Tri-axial accelerometer; Tri-axial accelerometer; Bi-axial accelerometer; Skin temperature;  Galvanic skin response,"McRoberts, DynaPort ADL-monitor; McRoberts, DynaPort MiniMod; BodyMedia, SenseWear-Pro3 Armband",Waist lumbar; Waist front side; Upper left Thigh; Right arm triceps,Microsoft Excel; Inner View PC software v6.1,15,Adults; Older Adults,Both
+103,"Author: Andrzejewski, K. L., Dowling, A. V., Stamler, D., Felong, T. J., Harris, D. A., Wong, C., Cai, H., Reilmann, R., Little, M. A., Gwin, J. T., Biglan, K. M. and Dorsey, E. R.
+Year: 2016
+Title: Wearable Sensors in Huntington Disease: A Pilot Study
+Journal: J Huntingtons Dis
+Volume: 5
+Issue: 2
+Pages: 199-206
+",Wearable Sensors in Huntington Disease: A Pilot Study,"Andrzejewski, K., Dowling, A., Stamler, D., Felong, T., Harris, D., Wong, C., Cai, H., Reilmann, R., Little, M., Gwin, J., Biglan K., Dorsey, R.",Journal of Huntington's Disease,2016,https://doi.org/10.3233/JHD-160197 ,Algorithm development; Operational feasibility,Musculoskeletal; Neurology,Huntington's disease,Physical activity; Gait,Time spent sitting upright: Time spent standing; Time spent walking; Time spent running; Total number of sit-to-stand; Duration of sit-to-stand; Total number of Stand-to-sit; Duration of Stand-to-sit; Number of walking episodes; Number of steps; Number of steps per walking episode; Step time standard deviation; Maximum step peak acceleration; Maximum medial-lateral velocity; Maximum medial-lateral displacement; Cadence; Average step peak acceleration; Average medial-lateral velocity; Average medial-lateral displacement,Scored video; Unified Huntington’s Disease Rating Scale (UHDRS); Timed Up and Go,Wearable,Tri-axial accelerometer,BioSensics PAMSys-X sensors,Ankles; Wrists; Chest,PAMWare™,20,Adults,Both
+111,"Author: Appelboom, G., Taylor, B. E., Bruce, E., Bassile, C. C., Malakidis, C., Yang, A., Youngerman, B., D'Amico, R., Bruce, S., Bruyere, O., Reginster, J. Y., Dumont, E. P. and Connolly, E. S., Jr.
+Year: 2015
+Title: Mobile Phone-Connected Wearable Motion Sensors to Assess Postoperative Mobilization
+Journal: JMIR Mhealth Uhealth
+Volume: 3
+Issue: 3
+Pages: e78
+",Mobile Phone-Connected Wearable Motion Sensors to Assess Postoperative Mobilization,"Appelboom, G., Taylor, B. E., Bruce, E., Bassile, C. C., Malakidis, C., Yang, A., Youngerman, B., D'Amico, R., Bruce, S., Bruyere, O., Reginster, J. Y., Dumont, E. P. and Connolly, E. S., Jr.",JMIR mHealth uHealth,2015,http://doi.org/10.2196/mhealth.3785,Algorithm development; Operational feasibility; Sensor performance,Musculoskeletal; Neurology,Neurosurgery,Postoperative mobilization,Number of steps,Actual number of steps determined by the average of the two values counted by each researcher using a mobile counting app,Wearable,Tri-axial accelerometer,"Fitbit, Zip",Right and left Hips; Right and left Ankles,SPSS v21.0,37,Adults; Older Adults,Both
+115,"Author: Arefin, M. R., Tavakolian, K. and Fazel-Rezai, R.
+Year: 2015
+Title: QRS complex detection in ECG signal for wearable devices
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2015
+Pages: 5940-3
+",QRS complex detection in ECG signal for wearable devices,"Arefin, M. R., Tavakolian, K. and Fazel-Rezai, R.",Conf Proc IEEE Eng Med Biol Soc,2015,http://doi.org/10.1109/EMBC.2015.7319744,Algorithm development,Cardiology,Arrhythmias,Arrhythmia detection,QRS complex detection,Pan and Tompkins algorithm; Afonso algorithm,Wearable,Electrocardiogram (ECG) electrodes,,,MATLAB,47,Not specified,Not specified
+126,"Author: Atallah, L., Wiik, A., Lo, B., Cobb, J. P., Amis, A. A. and Yang, G. Z.
+Year: 2014
+Title: Gait asymmetry detection in older adults using a light ear-worn sensor
+Journal: Physiol Meas
+Volume: 35
+Issue: 5
+Pages: N29-40
+",Gait asymmetry detection in older adults using a light ear-worn sensor,"Atallah, L., Wiik, A., Lo, B., Cobb, J. P., Amis, A. A. and Yang, G. Z.",Physiol Meas,2014,https://doi.org/10.1088/0967-3334/35/5/N29,Algorithm development; Sensor performance,Musculoskeletal; Orthopedics/Orthopedic Surgery; Rheumatology,Osteoarthritis,Gait asymmetry,Gait cycle time; Step-period asymmetry,Force-plate; Instrumented treadmill,Wearable,Tri-axial accelerometer,,Ear,MATLAB,64,Adults; Older Adults,Both
+145,"Author: Bahr, D. E., Webster, J. G., Grady, D., Kronenberg, F., Creasman, J., Macer, J., Shults, M., Tyler, M. and Zhou, X.
+Year: 2014
+Title: Miniature ambulatory skin conductance monitor and algorithm for investigating hot flash events
+Journal: Physiol Meas
+Volume: 35
+Issue: 2
+Pages: 95-110
+",Miniature ambulatory skin conductance monitor and algorithm for investigating hot flash events,"Bahr, D. E., Webster, J. G., Grady, D., Kronenberg, F., Creasman, J., Macer, J., Shults, M., Tyler, M. and Zhou, X.",Physiol Meas,2014,https://doi.org/10.1088/0967-3334/35/2/95,Algorithm development; Sensor performance,Endocrinology; Obstetrics/Gynecology (Women’s Health),Menopause,Hot flash events,Number of hot flash events,7-day self-reported hot flash diary,Adhesive patch, Hydrogel electrodes,Simplex Scientific Bahr Monitor,Sternum,MATLAB,37,Adults,Female
+153,"Author: Bailey, T., Bode, B. W., Christiansen, M. P., Klaff, L. J. and Alva, S.
+Year: 2015
+Title: The Performance and Usability of a Factory-Calibrated Flash Glucose Monitoring System
+Journal: Diabetes Technol Ther
+Volume: 17
+Issue: 11
+Pages: 787-94
+",The Performance and Usability of a Factory-Calibrated Flash Glucose Monitoring System,"Bailey, T., Bode, B. W., Christiansen, M. P., Klaff, L. J. and Alva, S.",Diabetes Technol Ther,2015,https://doi.org/10.1089/dia.2014.0378,Operational feasibility; Sensor performance,Endocrinology,Type 1 diabetes; Type 2 diabetes,Glucose monitoring,Accuracy of glucose measurements; Patient ease of use; Patient satisfaction,Capillary blood glucose measurements; Venous blood samples measured with Yellow Springs Instrument analyzer,Continuous glucose monitor,Interstitial sensor,"Abbott Diabetes Care, FreeStyle Libre Flash",Arm,SAS v9.2,75,Adults; Older Adults,Not specified
+154,"Author: Bailey, T. S., Chang, A. and Christiansen, M.
+Year: 2015
+Title: Clinical accuracy of a continuous glucose monitoring system with an advanced algorithm
+Journal: J Diabetes Sci Technol
+Volume: 9
+Issue: 2
+Pages: 209-14
+",Clinical accuracy of a continuous glucose monitoring system with an advanced algorithm,"Bailey, T. S., Chang, A. and Christiansen, M.",J Diabetes Sci Technol,2015,https://doi.org/10.1177/1932296814559746,Algorithm development; Operational feasibility; Sensor performance,Endocrinology,Type 1 diabetes; Type 2 diabetes,Glucose monitoring,"Accuracy, reliability and consistency of blood glucose measurements; Sensor life; Device related adverse events",Venous blood samples measured with Yellow Springs Instrument analyzer,Continuous glucose monitor,Interstitial sensor,"Dexcom, G4 Platinum",Abdomen,SAS v9.1.3,51,Adults; Older Adults,Both
+155,"Author: Bailey, T. S., Ahmann, A., Brazg, R., Christiansen, M., Garg, S., Watkins, E., Welsh, J. B. and Lee, S. W.
+Year: 2014
+Title: Accuracy and acceptability of the 6-day Enlite continuous subcutaneous glucose sensor
+Journal: Diabetes Technol Ther
+Volume: 16
+Issue: 5
+Pages: 277-83
+",Accuracy and acceptability of the 6-day Enlite continuous subcutaneous glucose sensor,"Bailey, T. S., Ahmann, A., Brazg, R., Christiansen, M., Garg, S., Watkins, E., Welsh, J. B. and Lee, S. W.",Diabetes Technol Ther,2014,https://doi.org/10.1089/dia.2013.0222,Operational feasibility; Sensor performance,Endocrinology,Type 1 diabetes; Type 2 diabetes,Glucose monitoring; Sensor wearability,Accuracy of glucose concentration; Detection of hypoglycemia and hyperglycemia; Patient satisfaction 7-point Likert-type questionnaire; Sensor safety,Plasma blood samples measured with Yellow Springs Instrument analyzer,Continuous glucose monitor,Interstitial sensor,"Medtronic MiniMed, Inc., Enlite",Abdomen; Buttocks ,,90,Adults; Older Adults,Both
+169,"Author: Banerjee, T., Peterson, M., Oliver, Q., Froehle, A. and Lawhorne, L.
+Year: 2018
+Title: Validating a Commercial Device for Continuous Activity Measurement in the Older Adult Population for Dementia Management
+Journal: Smart Health (Amst)
+Volume: 5-6
+Pages: 51-62
+",Validating a Commercial Device for Continuous Activity Measurement in the Older Adult Population for Dementia Management,"Banerjee, T., Peterson, M., Oliver, Q., Froehle, A. and Lawhorne, L.",Smart Health (Amst),2018,https://doi.org/10.1016/j.smhl.2017.11.001,Algorithm development; Sensor performance,Musculoskeletal; Neurology,Dementia; Mild to moderate cognitive impairment; Mobility impairment,Activity monitoring; Behavior monitoring,Heart rate; Respiration rate; Minute ventilation; Cadence in steps per minute; Activity,"Laboratory motion capture system with Motion Analysis Corp, Osprey cameras; Metabolic chart, SensorMedics, Vmax;  Polar, Heart rate monitor",Smart clothing,Accelerometer,Hexoskin vest,Chest,Cortext software; Hexoskin software,40,Older Adults,Both
+175,"Author: Baque, E., Sakzewski, L., Trost, S. G., Boyd, R. N. and Barber, L.
+Year: 2017
+Title: Validity of Accelerometry to Measure Physical Activity Intensity in Children With an Acquired Brain Injury
+Journal: Pediatr Phys Ther
+Volume: 29
+Issue: 4
+Pages: 322-329
+",Validity of Accelerometry to Measure Physical Activity Intensity in Children With an Acquired Brain Injury,"Baque, E., Sakzewski, L., Trost, S. G., Boyd, R. N. and Barber, L.",Pediatr Phys Ther,2017,https://doi.org/10.1016/j.smhl.2017.11.001,Algorithm development; Sensor performance,Musculoskeletal; Neurology; Pediatrics,Acquired brain injury; Non-traumatic brain injury; Stoke; Traumatic brain injury,Physical activity monitoring,"Oxygen consumption, accelerations and heart rate at rest, during self selected walking speeds and during rapid stepping on and off a block; Participant perceived exertion using the Pictorial Child Effort Rating; Accuracy of activity intensity cut-points","Previously published child cut-points, not specified ",Wearable,Tri-axial accelerometer; Heart rate monitor; Indirect calorimeter,"ActiGraph, GTX3+; Polar Electro Oy, RS400; Cortex, MetaMax 3B",Chest; Face; Hip,MATLAB; SPSS v22.0; STATA v12.0,27,"Children; Adolescents
+",Both
+176,"Author: Baque, E., Barber, L., Sakzewski, L. and Boyd, R. N.
+Year: 2016
+Title: Reproducibility in measuring physical activity in children and adolescents with an acquired brain injury
+Journal: Brain Inj
+Volume: 30
+Issue: 13-14
+Pages: 1692-1698
+",Reproducibility in measuring physical activity in children and adolescents with an acquired brain injury,"Baque, E., Barber, L., Sakzewski, L. and Boyd, R. N.",Brain Inj,2016,https://doi.org/10.1080/02699052.2016.1201594,Algorithm development; Sensor performance,Musculoskeletal; Neurology; Pediatrics,Acquired brain injury; Non-traumatic brain injury; Stoke; Traumatic brain injury,Physical activity monitoring,"Accelerations and heart rate at rest, during different walking speeds and during self selected rapid stepping on and off a block",Standardized laboratory assessments; Patient activity diary,Wearable,Tri-axial accelerometer; Heart rate monitor,"ActiGraph, GT3X+; Polar Electro Oy, RS400",Waist; Chest,"ActiGraph, ActiLife software; MATLAB",32,"Children; Adolescents
+",Both
+185,"Author: Lopez-Blanco, R., Velasco, M. A., Mendez-Guerrero, A., Romero, J. P., Del Castillo, M. D., Serrano, J. I., Benito-Leon, J., Bermejo-Pareja, F. and Rocon, E.
+Year: 2018
+Title: Essential tremor quantification based on the combined use of a smartphone and a smartwatch: The NetMD study
+Journal: J Neurosci Methods
+Volume: 303
+Pages: 95-102
+",Essential tremor quantification based on the combined use of a smartphone and a smartwatch: The NetMD study,"Lopez-Blanco, R., Velasco, M. A., Mendez-Guerrero, A., Romero, J. P., Del Castillo, M. D., Serrano, J. I., Benito-Leon, J., Bermejo-Pareja, F. and Rocon, E.",J Neurosci Methods,2018,https://doi.org/10.1016/j.jneumeth.2018.02.015,Algorithm development; Operational feasibility; Software development,Musculoskeletal; Neurology,Essential tremor,Tremor quantification,Tremor intensity and frequency; Patient acceptance and satisfaction,Scored video using Fahn-Tolosa-Marin Tremor Rating Scale (FTM-TRS),Smart watch; Smart phone,Tri-axial accelerometer; Tri-axial gyroscope; App,"Sony, Smartwatch3 ; Android; Custom NetMD system ",Wrist; Waist,MATLAB  v7.11.0 R2010b; R v1.0.136,34,Adults; Older Adults,Both
+200,"Author: Batsis, J. A., Naslund, J. A., Gill, L. E., Masutani, R. K., Agarwal, N. and Bartels, S. J.
+Year: 2016
+Title: Use of a Wearable Activity Device in Rural Older Obese Adults: A Pilot Study
+Journal: Gerontol Geriatr Med
+Volume: 2
+Pages: 2333721416678076
+",,,,,,,,,,,,,,,,,,,
+204,"Author: Bayes, A., Sama, A., Prats, A., Perez-Lopez, C., Crespo-Maraver, M., Moreno, J. M., Alcaine, S., Rodriguez-Molinero, A., Mestre, B., Quispe, P., de Barros, A. C., Castro, R., Costa, A., Annicchiarico, R., Browne, P., Counihan, T., Lewy, H., Vainstein, G., Quinlan, L. R., Sweeney, D., G, O. Laighin, Rovira, J., Rodrigue, Z. Martin D. and Cabestany, J.
+Year: 2018
+Title: A ""HOLTER"" for Parkinson's disease: Validation of the ability to detect on-off states using the REMPARK system
+Journal: Gait Posture
+Volume: 59
+Pages: 1-6
+",,,,,,,,,,,,,,,,,,,
+249,"Author: Bernad-Elazari, H., Herman, T., Mirelman, A., Gazit, E., Giladi, N. and Hausdorff, J. M.
+Year: 2016
+Title: Objective characterization of daily living transitions in patients with Parkinson's disease using a single body-fixed sensor
+Journal: J Neurol
+Volume: 263
+Issue: 8
+Pages: 1544-51
+",,,,,,,,,,,,,,,,,,,
+264,"Author: Bianchi, M. T., Lipoma, T., Darling, C., Alameddine, Y. and Westover, M. B.
+Year: 2014
+Title: Automated sleep apnea quantification based on respiratory movement
+Journal: Int J Med Sci
+Volume: 11
+Issue: 8
+Pages: 796-802
+",,,,,,,,,,,,,,,,,,,
+292,"Author: Bochniewicz, E. M., Emmer, G., McLeod, A., Barth, J., Dromerick, A. W. and Lum, P.
+Year: 2017
+Title: Measuring Functional Arm Movement after Stroke Using a Single Wrist-Worn Sensor and Machine Learning
+Journal: J Stroke Cerebrovasc Dis
+Volume: 26
+Issue: 12
+Pages: 2880-2887
+",,,,,,,,,,,,,,,,,,,
+307,"Author: Bonnet, S., Bourgerette, A., Gharbi, S., Rubeck, C., Arkouche, W., Massot, B., McAdams, E., Montalibet, A. and Jallon, P.
+Year: 2016
+Title: Wearable impedance monitoring system for dialysis patients
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2016
+Pages: 5196-5199
+",,,,,,,,,,,,,,,,,,,
+310,"Author: Bonora, B., Maran, A., Ciciliot, S., Avogaro, A. and Fadini, G. P.
+Year: 2016
+Title: Head-to-head comparison between flash and continuous glucose monitoring systems in outpatients with type 1 diabetes
+Journal: J Endocrinol Invest
+Volume: 39
+Issue: 12
+Pages: 1391-1399
+",,,,,,,,,,,,,,,,,,,
+311,"Author: Bonora, G., Mancini, M., Carpinella, I., Chiari, L., Horak, F. B. and Ferrarin, M.
+Year: 2017
+Title: Gait initiation is impaired in subjects with Parkinson's disease in the OFF state: Evidence from the analysis of the anticipatory postural adjustments through wearable inertial sensors
+Journal: Gait Posture
+Volume: 51
+Pages: 218-221
+",,,,,,,,,,,,,,,,,,,
+337,"Author: Braga, L. M., Prado, G. F., Umeda, II, Kawauchi, T. S., Taboada, A. M., Azevedo, R. S., Pereira Filho, H. G., Grupi, C. J., Souza, H. C., Moreira, D. A. and Nakagawa, N. K.
+Year: 2016
+Title: Reproducibility for Heart Rate Variability Analysis during 6-Min Walk Test in Patients with Heart Failure and Agreement between Devices
+Journal: PLoS One
+Volume: 11
+Issue: 12
+Pages: e0167407
+",,,,,,,,,,,,,,,,,,,
+358,"Author: Brogioli, M., Popp, W. L., Schneider, S., Albisser, U., Brust, A. K., Frotzler, A., Gassert, R., Curt, A. and Starkey, M. L.
+Year: 2017
+Title: Multi-Day Recordings of Wearable Sensors Are Valid and Sensitive Measures of Function and Independence in Human Spinal Cord Injury
+Journal: J Neurotrauma
+Volume: 34
+Issue: 6
+Pages: 1141-1148
+",,,,,,,,,,,,,,,,,,,
+368,"Author: Bregou Bourgeois, A., Mariani, B., Aminian, K., Zambelli, P. Y. and Newman, C. J.
+Year: 2014
+Title: Spatio-temporal gait analysis in children with cerebral palsy using, foot-worn inertial sensors
+Journal: Gait Posture
+Volume: 39
+Issue: 1
+Pages: 436-42
+",,,,,,,,,,,,,,,,,,,
+399,"Author: Cai, G., Huang, Y., Luo, S., Lin, Z., Dai, H. and Ye, Q.
+Year: 2017
+Title: Continuous quantitative monitoring of physical activity in Parkinson's disease patients by using wearable devices: a case-control study
+Journal: Neurol Sci
+Volume: 38
+Issue: 9
+Pages: 1657-1663
+",,,,,,,,,,,,,,,,,,,
+403,"Author: Cairns, A., Wickwire, E., Schaefer, E. and Nyanjom, D.
+Year: 2014
+Title: A pilot validation study for the NOX T3(TM) portable monitor for the detection of OSA
+Journal: Sleep Breath
+Volume: 18
+Issue: 3
+Pages: 609-14
+",,,,,,,,,,,,,,,,,,,
+411,"Author: Camiletti-Moiron, D., Segura-Jimenez, V., Alvarez-Gallardo, I. C., Estevez-Lopez, F., Aparicio, V. A., Carbonell-Baeza, A., Ruiz, J. R. and Delgado-Fernandez, M.
+Year: 2015
+Title: Inter-accelerometer comparison to measure physical activity and sedentary time in female fibromyalgia patients: the al-Andalus project
+Journal: Clin Exp Rheumatol
+Volume: 33
+Issue: 1 Suppl 88
+Pages: S46-52
+",,,,,,,,,,,,,,,,,,,
+415,"Author: Campos, C., DePaul, V. G., Knorr, S., Wong, J. S., Mansfield, A. and Patterson, K. K.
+Year: 2018
+Title: Validity of the ActiGraph activity monitor for individuals who walk slowly post-stroke
+Journal: Top Stroke Rehabil
+Volume: 25
+Issue: 4
+Pages: 295-304
+",,,,,,,,,,,,,,,,,,,
+416,"Author: Cancela, J., Pastorino, M., Tzallas, A. T., Tsipouras, M. G., Rigas, G., Arredondo, M. T. and Fotiadis, D. I.
+Year: 2014
+Title: Wearability assessment of a wearable system for Parkinson's disease remote monitoring based on a body area network of sensors
+Journal: Sensors (Basel)
+Volume: 14
+Issue: 9
+Pages: 17235-55
+",,,,,,,,,,,,,,,,,,,
+417,"Author: Cancela, J., Pastorino, M., Arredondo, M. T., Nikita, K. S., Villagra, F. and Pastor, M. A.
+Year: 2014
+Title: Feasibility study of a wearable system based on a wireless body area network for gait assessment in Parkinson's disease patients
+Journal: Sensors (Basel)
+Volume: 14
+Issue: 3
+Pages: 4618-33
+",,,,,,,,,,,,,,,,,,,
+421,"Author: Capecci, M., Pepa, L., Verdini, F. and Ceravolo, M. G.
+Year: 2016
+Title: A smartphone-based architecture to detect and quantify freezing of gait in Parkinson's disease
+Journal: Gait Posture
+Volume: 50
+Pages: 28-33
+",,,,,,,,,,,,,,,,,,,
+428,"Author: Carcreff, L., Gerber, C. N., Paraschiv-Ionescu, A., De Coulon, G., Newman, C. J., Armand, S. and Aminian, K.
+Year: 2018
+Title: What is the Best Configuration of Wearable Sensors to Measure Spatiotemporal Gait Parameters in Children with Cerebral Palsy?
+Journal: Sensors (Basel)
+Volume: 18
+Issue: 2
+Epub Date: 2018/02/02
+",,,,,,,,,,,,,,,,,,,
+454,"Author: Castelli, L., Stocchi, L., Patrignani, M., Sellitto, G., Giuliani, M. and Prosperini, L.
+Year: 2015
+Title: We-Measure: Toward a low-cost portable posturography for patients with multiple sclerosis using the commercial Wii balance board
+Journal: J Neurol Sci
+Volume: 359
+Issue: 1-2
+Pages: 440-4
+",,,,,,,,,,,,,,,,,,,
+458,"Author: Castroflorio, T., Deregibus, A., Bargellini, A., Debernardi, C. and Manfredini, D.
+Year: 2014
+Title: Detection of sleep bruxism: comparison between an electromyographic and electrocardiographic portable holter and polysomnography
+Journal: J Oral Rehabil
+Volume: 41
+Issue: 3
+Pages: 163-9
+",,,,,,,,,,,,,,,,,,,
+465,"Author: Cella, M., Okruszek, L., Lawrence, M., Zarlenga, V., He, Z. and Wykes, T.
+Year: 2018
+Title: Using wearable technology to detect the autonomic signature of illness severity in schizophrenia
+Journal: Schizophr Res
+Volume: 195
+Pages: 537-542
+",,,,,,,,,,,,,,,,,,,
+487,"Author: Chapman, J. J., Fraser, S. J., Brown, W. J. and Burton, N. W.
+Year: 2015
+Title: The feasibility and acceptability of questionnaires and accelerometry for measuring physical activity and sedentary behaviour in adults with mental illness
+Journal: J Ment Health
+Volume: 24
+Issue: 5
+Pages: 299-304
+",,,,,,,,,,,,,,,,,,,
+539,"Author: Christensen, C., Haddad, A. and Maus, E.
+Year: 2017
+Title: Validity of an Accelerometer Used to Measure Step Count in Children With Idiopathic Toe Walking
+Journal: Pediatr Phys Ther
+Volume: 29
+Issue: 2
+Pages: 153-157
+",,,,,,,,,,,,,,,,,,,
+540,"Author: Christiansen, M. P., Garg, S. K., Brazg, R., Bode, B. W., Bailey, T. S., Slover, R. H., Sullivan, A., Huang, S., Shin, J., Lee, S. W. and Kaufman, F. R.
+Year: 2017
+Title: Accuracy of a Fourth-Generation Subcutaneous Continuous Glucose Sensor
+Journal: Diabetes Technol Ther
+Volume: 19
+Issue: 8
+Pages: 446-456
+",,,,,,,,,,,,,,,,,,,
+556,"Author: Claridge, E. A., McPhee, P. G., Timmons, B. W., Martin Ginis, K. A., Macdonald, M. J. and Gorter, J. W.
+Year: 2015
+Title: Quantification of Physical Activity and Sedentary Time in Adults with Cerebral Palsy
+Journal: Med Sci Sports Exerc
+Volume: 47
+Issue: 8
+Pages: 1719-26
+",,,,,,,,,,,,,,,,,,,
+571,"Author: Cogan, D., Pouyan, M. B., Nourani, M. and Harvey, J.
+Year: 2014
+Title: A wrist-worn biosensor system for assessment of neurological status
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2014
+Pages: 5748-51
+",,,,,,,,,,,,,,,,,,,
+574,"Author: Coker-Bolt, P., Downey, R. J., Connolly, J., Hoover, R., Shelton, D. and Seo, N. J.
+Year: 2017
+Title: Exploring the feasibility and use of acceleromters before, during, and after a camp-based CIMT program for children with cerebral palsy
+Journal: J Pediatr Rehabil Med
+Volume: 10
+Issue: 1
+Pages: 27-36
+",,,,,,,,,,,,,,,,,,,
+576,"Author: Cole, B. T., Roy, S. H., De Luca, C. J. and Nawab, S. H.
+Year: 2014
+Title: Dynamical learning and tracking of tremor and dyskinesia from wearable sensors
+Journal: IEEE Trans Neural Syst Rehabil Eng
+Volume: 22
+Issue: 5
+Pages: 982-91
+",,,,,,,,,,,,,,,,,,,
+577,"Author: Cole, C. A., Anshari, D., Lambert, V., Thrasher, J. F. and Valafar, H.
+Year: 2017
+Title: Detecting Smoking Events Using Accelerometer Data Collected Via Smartwatch Technology: Validation Study
+Journal: JMIR Mhealth Uhealth
+Volume: 5
+Issue: 12
+Pages: e189
+",,,,,,,,,,,,,,,,,,,
+593,"Author: Conway, M. R., Marshall, M. R., Schlaff, R. A., Pfeiffer, K. A. and Pivarnik, J. M.
+Year: 2018
+Title: Physical Activity Device Reliability and Validity during Pregnancy and Postpartum
+Journal: Med Sci Sports Exerc
+Volume: 50
+Issue: 3
+Pages: 617-623
+",,,,,,,,,,,,,,,,,,,
+595,"Author: Cook, J. D., Prairie, M. L. and Plante, D. T.
+Year: 2018
+Title: Ability of the Multisensory Jawbone UP3 to Quantify and Classify Sleep in Patients With Suspected Central Disorders of Hypersomnolence: A Comparison Against Polysomnography and Actigraphy
+Journal: J Clin Sleep Med
+Volume: 14
+Issue: 5
+Pages: 841-848
+",,,,,,,,,,,,,,,,,,,
+606,"Author: Correa, J. B., Apolzan, J. W., Shepard, D. N., Heil, D. P., Rood, J. C. and Martin, C. K.
+Year: 2016
+Title: Evaluation of the ability of three physical activity monitors to predict weight change and estimate energy expenditure
+Journal: Appl Physiol Nutr Metab
+Volume: 41
+Issue: 7
+Pages: 758-66
+",,,,,,,,,,,,,,,,,,,
+650,"D. M. and Russell, S. J.
+Year: 2014
+Title: A comparative effectiveness analysis of three continuous glucose monitors: the Navigator, G4 Platinum, and Enlite
+Journal: J Diabetes Sci Technol
+Volume: 8
+Issue: 4
+Pages: 699-708
+",,,,,,,,,,,,,,,,,,,
+662,"Author: Dawson, A., Loving, R. T., Gordon, R. M., Abel, S. L., Loewy, D., Kripke, D. F. and Kline, L. E.
+Year: 2015
+Title: Type III home sleep testing versus pulse oximetry: is the respiratory disturbance index better than the oxygen desaturation index to predict the apnoea-hypopnoea index measured during laboratory polysomnography?
+Journal: BMJ Open
+Volume: 5
+Issue: 6
+Pages: e007956
+",,,,,,,,,,,,,,,,,,,
+663,"Author: de Asmundis, C., Conte, G., Sieira, J., Chierchia, G. B., Rodriguez-Manero, M., Di Giovanni, G., Ciconte, G., Levinstein, M., Baltogiannis, G., Saitoh, Y., Casado-Arroyo, R. and Brugada, P.
+Year: 2014
+Title: Comparison of the patient-activated event recording system vs. traditional 24 h Holter electrocardiography in individuals with paroxysmal palpitations or dizziness
+Journal: Europace
+Volume: 16
+Issue: 8
+Pages: 1231-5
+",,,,,,,,,,,,,,,,,,,
+680,"Author: De Vroey, H., Staes, F., Weygers, I., Vereecke, E., Vanrenterghem, J., Deklerck, J., Van Damme, G., Hallez, H. and Claeys, K.
+Year: 2018
+Title: The implementation of inertial sensors for the assessment of temporal parameters of gait in the knee arthroplasty population
+Journal: Clin Biomech (Bristol, Avon)
+Volume: 54
+Pages: 22-27
+",,,,,,,,,,,,,,,,,,,
+687,"Author: Deepu, C. J. and Lian, Y.
+Year: 2015
+Title: A joint QRS detection and data compression scheme for wearable sensors
+Journal: IEEE Trans Biomed Eng
+Volume: 62
+Issue: 1
+Pages: 165-75
+",,,,,,,,,,,,,,,,,,,
+691,"Author: Del Din, S., Godfrey, A. and Rochester, L.
+Year: 2016
+Title: Validation of an Accelerometer to Quantify a Comprehensive Battery of Gait Characteristics in Healthy Older Adults and Parkinson's Disease: Toward Clinical and at Home Use
+Journal: IEEE J Biomed Health Inform
+Volume: 20
+Issue: 3
+Pages: 838-847
+",,,,,,,,,,,,,,,,,,,
+702,"Author: Derungs, A., Schuster-Amft, C. and Amft, O.
+Year: 2018
+Title: Longitudinal Walking Analysis in Hemiparetic Patients Using Wearable Motion Sensors: Is There Convergence Between Body Sides?
+Journal: Front Bioeng Biotechnol
+Volume: 6
+Pages: 57
+",,,,,,,,,,,,,,,,,,,
+712,"Author: Di Palma, S., Tonacci, A., Narzisi, A., Domenici, C., Pioggia, G., Muratori, F. and Billeci, L.
+Year: 2017
+Title: Monitoring of autonomic response to sociocognitive tasks during treatment in children with Autism Spectrum Disorders by wearable technologies: A feasibility study
+Journal: Comput Biol Med
+Volume: 85
+Pages: 143-152
+",,,,,,,,,,,,,,,,,,,
+766,"Author: Downs, J., Leonard, H., Jacoby, P., Brisco, L., Baikie, G. and Hill, K.
+Year: 2015
+Title: Rett syndrome: establishing a novel outcome measure for walking activity in an era of clinical trials for rare disorders
+Journal: Disabil Rehabil
+Volume: 37
+Issue: 21
+Pages: 1992-6
+",,,,,,,,,,,,,,,,,,,
+793,"Author: Edge, J., Acerini, C., Campbell, F., Hamilton-Shield, J., Moudiotis, C., Rahman, S., Randell, T., Smith, A. and Trevelyan, N.
+Year: 2017
+Title: An alternative sensor-based method for glucose monitoring in children and young people with diabetes
+Journal: Arch Dis Child
+Volume: 102
+Issue: 6
+Pages: 543-549
+",,,,,,,,,,,,,,,,,,,
+822,"Author: Ellis, K., Kerr, J., Godbole, S., Staudenmayer, J. and Lanckriet, G.
+Year: 2016
+Title: Hip and Wrist Accelerometer Algorithms for Free-Living Behavior Classification
+Journal: Med Sci Sports Exerc
+Volume: 48
+Issue: 5
+Pages: 933-40
+",,,,,,,,,,,,,,,,,,,
+824,"Author: Ellis, R. J., Ng, Y. S., Zhu, S., Tan, D. M., Anderson, B., Schlaug, G. and Wang, Y.
+Year: 2015
+Title: A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson's Disease
+Journal: PLoS One
+Volume: 10
+Issue: 10
+Pages: e0141694
+",,,,,,,,,,,,,,,,,,,
+843,"Author: Eskofier, B. M., Lee, S. I., Daneault, J. F., Golabchi, F. N., Ferreira-Carvalho, G., Vergara-Diaz, G., Sapienza, S., Costante, G., Klucken, J., Kautz, T. and Bonato, P.
+Year: 2016
+Title: Recent machine learning advancements in sensor-based mobility analysis: Deep learning for Parkinson's disease assessment
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2016
+Pages: 655-658
+",,,,,,,,,,,,,,,,,,,
+858,"Author: Faccioli, S., Del Favero, S., Visentin, R., Bonfanti, R., Iafusco, D., Rabbone, I., Marigliano, M., Schiaffini, R., Bruttomesso, D. and Cobelli, C.
+Year: 2017
+Title: Accuracy of a CGM Sensor in Pediatric Subjects With Type 1 Diabetes. Comparison of Three Insertion Sites: Arm, Abdomen, and Gluteus
+Journal: J Diabetes Sci Technol
+Volume: 11
+Issue: 6
+Pages: 1147-1154
+",,,,,,,,,,,,,,,,,,,
+859,"Author: Faedda, G. L., Ohashi, K., Hernandez, M., McGreenery, C. E., Grant, M. C., Baroni, A., Polcari, A. and Teicher, M. H.
+Year: 2016
+Title: Actigraph measures discriminate pediatric bipolar disorder from attention-deficit/hyperactivity disorder and typically developing controls
+Journal: J Child Psychol Psychiatry
+Volume: 57
+Issue: 6
+Pages: 706-16
+",,,,,,,,,,,,,,,,,,,
+886,"Author: Feldhege, F., Mau-Moeller, A., Lindner, T., Hein, A., Markschies, A., Zettl, U. K. and Bader, R.
+Year: 2015
+Title: Accuracy of a custom physical activity and knee angle measurement sensor system for patients with neuromuscular disorders and gait abnormalities
+Journal: Sensors (Basel)
+Volume: 15
+Issue: 5
+Pages: 10734-52
+",,,,,,,,,,,,,,,,,,,
+896,"Author: Ferreira, J. J., Godinho, C., Santos, A. T., Domingos, J., Abreu, D., Lobo, R., Goncalves, N., Barra, M., Larsen, F., Fagerbakke, O., Akeren, I., Wangen, H., Serrano, J. A., Weber, P., Thoms, A., Meckler, S., Sollinger, S., van Uem, J., Hobert, M. A., Maier, K. S., Matthew, H., Isaacs, T., Duffen, J., Graessner, H. and Maetzler, W.
+Year: 2015
+Title: Quantitative home-based assessment of Parkinson's symptoms: the SENSE-PARK feasibility and usability study
+Journal: BMC Neurol
+Volume: 15
+Pages: 89
+",,,,,,,,,,,,,,,,,,,
+898,"Author: Ferretti, A., Valeo, L., Mazza, D., Muliere, L., Iorio, P., Giovannetti, G., Conteduca, F. and Iorio, R.
+Year: 2014
+Title: Smartphone versus knee ligament arthrometer when size does not matter
+Journal: Int Orthop
+Volume: 38
+Issue: 10
+Pages: 2197-9
+",,,,,,,,,,,,,,,,,,,
+905,"Author: Fisher, J. M., Hammerla, N. Y., Ploetz, T., Andras, P., Rochester, L. and Walker, R. W.
+Year: 2016
+Title: Unsupervised home monitoring of Parkinson's disease motor symptoms using body-worn accelerometers
+Journal: Parkinsonism Relat Disord
+Volume: 33
+Pages: 44-50
+",,,,,,,,,,,,,,,,,,,
+915,"Author: Fletcher, R. R., Oreskovic, N. M. and Robinson, A. I.
+Year: 2014
+Title: Design and clinical feasibility of personal wearable monitor for measurement of activity and environmental exposure
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2014
+Pages: 874-7
+",,,,,,,,,,,,,,,,,,,
+922,"Author: Fokkenrood, H. J., Verhofstad, N., van den Houten, M. M., Lauret, G. J., Wittens, C., Scheltinga, M. R. and Teijink, J. A.
+Year: 2014
+Title: Physical activity monitoring in patients with peripheral arterial disease: validation of an activity monitor
+Journal: Eur J Vasc Endovasc Surg
+Volume: 48
+Issue: 2
+Pages: 194-200
+",,,,,,,,,,,,,,,,,,,
+944,"Author: Fredheim, J. M., Roislien, J. and Hjelmesaeth, J.
+Year: 2014
+Title: Validation of a portable monitor for the diagnosis of obstructive sleep apnea in morbidly obese patients
+Journal: J Clin Sleep Med
+Volume: 10
+Issue: 7
+Pages: 751-7, 757a
+",,,,,,,,,,,,,,,,,,,
+952,"Author: Fu, T. C., Lin, W. C., Wang, J. S., Wang, C. H., Chang, C. T., Tsai, C. L., Lee, Y. S. and Lin, K. P.
+Year: 2017
+Title: Detection of exercise periodic breathing using thermal flowmeter in patients with heart failure
+Journal: Med Biol Eng Comput
+Volume: 55
+Issue: 8
+Pages: 1189-1198
+",,,,,,,,,,,,,,,,,,,
+958,"Author: Fulk, G. D., Combs, S. A., Danks, K. A., Nirider, C. D., Raja, B. and Reisman, D. S.
+Year: 2014
+Title: Accuracy of 2 activity monitors in detecting steps in people with stroke and traumatic brain injury
+Journal: Phys Ther
+Volume: 94
+Issue: 2
+Pages: 222-9
+",,,,,,,,,,,,,,,,,,,
+976,"Author: Gant, K., Bohorquez, J. and Thomas, C. K.
+Year: 2017
+Title: Long-term recording of electromyographic activity from multiple muscles to monitor physical activity of participants with or without a neurological disorder
+Journal: Biomed Tech (Berl)
+",,,,,,,,,,,,,,,,,,,
+987,"Author: Garcia-Ortiz, L., Recio-Rodriguez, J. I., Agudo-Conde, C., Maderuelo-Fernandez, J. A., Patino Alonso, M. C., de Cabo-Laso, A., Rodriguez-Martin, C., Gonzalez-Sanchez, J., Rodriguez-Sanchez, E. and Gomez-Marcos, M. A.
+Year: 2018
+Title: Noninvasive validation of central and peripheral augmentation index estimated by a novel wrist-worn tonometer
+Journal: J Hypertens
+",,,,,,,,,,,,,,,,,,,
+1029,"Author: Gilbert, A. L., Lee, J., Ma, M., Semanik, P. A., DiPietro, L., Dunlop, D. D. and Chang, R. W.
+Year: 2016
+Title: Comparison of Subjective and Objective Measures of Sedentary Behavior Using the Yale Physical Activity Survey and Accelerometry in Patients With Rheumatoid Arthritis
+Journal: J Phys Act Health
+Volume: 13
+Issue: 4
+Pages: 371-6
+",,,,,,,,,,,,,,,,,,,
+1041,"Author: Godfrey, A., Morris, R., Hickey, A. and Del Din, S.
+Year: 2016
+Title: Beyond the front end: Investigating a thigh worn accelerometer device for step count and bout detection in Parkinson's disease
+Journal: Med Eng Phys
+Volume: 38
+Issue: 12
+Pages: 1524-1529
+",,,,,,,,,,,,,,,,,,,
+1042,"Author: Godfrey, A., Bourke, A., Del Din, S., Morris, R., Hickey, A., Helbostad, J. L. and Rochester, L.
+Year: 2016
+Title: Towards holistic free-living assessment in Parkinson's disease: Unification of gait and fall algorithms with a single accelerometer
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2016
+Pages: 651-654
+",,,,,,,,,,,,,,,,,,,
+1097,"Author: Grunerbl, A., Muaremi, A., Osmani, V., Bahle, G., Ohler, S., Troster, G., Mayora, O., Haring, C. and Lukowicz, P.
+Year: 2015
+Title: Smartphone-based recognition of states and state changes in bipolar disorder patients
+Journal: IEEE J Biomed Health Inform
+Volume: 19
+Issue: 1
+Pages: 140-8
+",,,,,,,,,,,,,,,,,,,
+1099,"Author: Gu, Y., Cleeren, E., Dan, J., Claes, K., Van Paesschen, W., Van Huffel, S. and Hunyadi, B.
+Year: 2017
+Title: Comparison between Scalp EEG and Behind-the-Ear EEG for Development of a Wearable Seizure Detection System for Patients with Focal Epilepsy
+Journal: Sensors (Basel)
+Volume: 18
+Issue: 1
+",,,,,,,,,,,,,,,,,,,
+1110,"Author: Gundle, K. R., Punt, S. E. and Conrad Iii, E. U.
+Year: 2014
+Title: Assessment of objective ambulation in lower extremity sarcoma patients with a continuous activity monitor: rationale and validation
+Journal: Sarcoma
+Volume: 2014
+Pages: 947082
+",,,,,,,,,,,,,,,,,,,
+1130,"Author: Haegele, J. A., Brian, A. S. and Wolf, D.
+Year: 2017
+Title: Accuracy of the Fitbit Zip for Measuring Steps for Adolescents With Visual Impairments
+Journal: Adapt Phys Activ Q
+Volume: 34
+Issue: 2
+Pages: 195-200
+",,,,,,,,,,,,,,,,,,,
+1200,"Author: Hegde, N., Zhang, T., Uswatte, G., Taub, E., Barman, J., McKay, S., Taylor, A., Morris, D. M., Griffin, A. and Sazonov, E. S.
+Year: 2018
+Title: The Pediatric SmartShoe: Wearable Sensor System for Ambulatory Monitoring of Physical Activity and Gait
+Journal: IEEE Trans Neural Syst Rehabil Eng
+Volume: 26
+Issue: 2
+Pages: 477-486
+",,,,,,,,,,,,,,,,,,,
+1207,"Author: Heldman, D. A., Espay, A. J., LeWitt, P. A. and Giuffrida, J. P.
+Year: 2014
+Title: Clinician versus machine: reliability and responsiveness of motor endpoints in Parkinson's disease
+Journal: Parkinsonism Relat Disord
+Volume: 20
+Issue: 6
+Pages: 590-5
+",,,,,,,,,,,,,,,,,,,
+1223,"Author: Hersek, S., Toreyin, H., Teague, C. N., Millard-Stafford, M. L., Jeong, H. K., Bavare, M. M., Wolkoff, P., Sawka, M. N. and Inan, O. T.
+Year: 2017
+Title: Wearable Vector Electrical Bioimpedance System to Assess Knee Joint Health
+Journal: IEEE Trans Biomed Eng
+Volume: 64
+Issue: 10
+Pages: 2353-2360
+",,,,,,,,,,,,,,,,,,,
+1235,"Author: Hickey, A., Gunn, E., Alcock, L., Del Din, S., Godfrey, A., Rochester, L. and Galna, B.
+Year: 2016
+Title: Validity of a wearable accelerometer to quantify gait in spinocerebellar ataxia type 6
+Journal: Physiol Meas
+Volume: 37
+Issue: 11
+Pages: N105-n117
+",,,,,,,,,,,,,,,,,,,
+1245,"Author: Hiremath, S. V., Intille, S. S., Kelleher, A., Cooper, R. A. and Ding, D.
+Year: 2015
+Title: Detection of physical activities using a physical activity monitor system for wheelchair users
+Journal: Med Eng Phys
+Volume: 37
+Issue: 1
+Pages: 68-76
+",,,,,,,,,,,,,,,,,,,
+1251,"Author: Hoban, K., Peden, R., Megaw, R., Halpin, P. and Tatham, A. J.
+Year: 2017
+Title: 24-Hour Contact Lens Sensor Monitoring of Intraocular Pressure-Related Profiles in Normal-Tension Glaucoma and Rates of Disease Progression
+Journal: Ophthalmic Res
+Volume: 57
+Issue: 4
+Pages: 208-215
+",,,,,,,,,,,,,,,,,,,
+1272,"Author: Hosseini, A., Buonocore, C. M., Hashemzadeh, S., Hojaiji, H., Kalantarian, H., Sideris, C., Bui, A. A. T., King, C. E. and Sarrafzadeh, M.
+Year: 2017
+Title: Feasibility of a Secure Wireless Sensing Smartwatch Application for the Self-Management of Pediatric Asthma
+Journal: Sensors (Basel)
+Volume: 17
+Issue: 8
+",,,,,,,,,,,,,,,,,,,
+1279,"Author: Howell, D., Osternig, L. and Chou, L. S.
+Year: 2015
+Title: Monitoring recovery of gait balance control following concussion using an accelerometer
+Journal: J Biomech
+Volume: 48
+Issue: 12
+Pages: 3364-8
+",,,,,,,,,,,,,,,,,,,
+1285,"Author: Hsu, Y. L., Chung, P. C., Wang, W. H., Pai, M. C., Wang, C. Y., Lin, C. W., Wu, H. L. and Wang, J. S.
+Year: 2014
+Title: Gait and balance analysis for patients with Alzheimer's disease using an inertial-sensor-based wearable instrument
+Journal: IEEE J Biomed Health Inform
+Volume: 18
+Issue: 6
+Pages: 1822-30
+",,,,,,,,,,,,,,,,,,,
+1305,"Author: Hughes, J., Welsh, J. B., Bhavaraju, N. C., Vanslyke, S. J. and Balo, A. K.
+Year: 2017
+Title: Stability, Accuracy, and Risk Assessment of a Novel Subcutaneous Glucose Sensor
+Journal: Diabetes Technol Ther
+Volume: 19
+Issue: S3
+Pages: S21-s24
+",,,,,,,,,,,,,,,,,,,
+1307,"Author: Hui, J., Heyden, R., Bao, T., Accettone, N., McBay, C., Richardson, J. and Tang, A.
+Year: 2018
+Title: Validity of the Fitbit One for Measuring Activity in Community-Dwelling Stroke Survivors
+Journal: Physiother Can
+Volume: 70
+Issue: 1
+Pages: 81-89
+",,,,,,,,,,,,,,,,,,,
+1309,"Author: Hummel, R., Bradley, T. D., Fernie, G. R., Chang, S. J. and Alshaer, H.
+Year: 2015
+Title: Estimation of sleep status in sleep apnea patients using a novel head actigraphy technique
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2015
+Pages: 5416-9
+",,,,,,,,,,,,,,,,,,,
+1327,"Author: Ilias, T., Filip, B., Radu, C., Dag, N., Marina, S. and Mevludin, M.
+Year: 2017
+Title: Using measurements from wearable sensors for automatic scoring of Parkinson's disease motor states: Results from 7 patients
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2017
+Pages: 131-134
+",,,,,,,,,,,,,,,,,,,
+1329,"Giladi, N., Mirelman, A. and Hausdorff, J. M.
+Year: 2014
+Title: Automated detection of missteps during community ambulation in patients with Parkinson's disease: a new approach for quantifying fall risk in the community setting
+Journal: J Neuroeng Rehabil
+Volume: 11
+Pages: 48
+",,,,,,,,,,,,,,,,,,,
+1332,"Author: Imtiaz, M. H., Ramos-Garcia, R. I., Senyurek, V. Y., Tiffany, S. and Sazonov, E.
+Year: 2017
+Title: Development of a Multisensory Wearable System for Monitoring Cigarette Smoking Behavior in Free-Living Conditions
+Journal: Electronics (Basel)
+Volume: 6
+Issue: 4
+",,,,,,,,,,,,,,,,,,,
+1341,"Author: Ireland, D., Wang, Z., Lamont, R. and Liddle, J.
+Year: 2016
+Title: Classification of Movement of People with Parkinsons Disease Using Wearable Inertial Movement Units and Machine Learning
+Journal: Stud Health Technol Inform
+Volume: 227
+Pages: 61-6
+",,,,,,,,,,,,,,,,,,,
+1350,"Author: Jacquemin, C., Servy, H., Molto, A., Sellam, J., Foltz, V., Gandjbakhch, F., Hudry, C., Mitrovic, S., Fautrel, B. and Gossec, L.
+Year: 2018
+Title: Physical Activity Assessment Using an Activity Tracker in Patients with Rheumatoid Arthritis and Axial Spondyloarthritis: Prospective Observational Study
+Journal: JMIR Mhealth Uhealth
+Volume: 6
+Issue: 1
+Pages: e1
+",,,,,,,,,,,,,,,,,,,
+1354,"Author: Jagos, H., Pils, K., Haller, M., Wassermann, C., Chhatwal, C., Rafolt, D. and Rattay, F.
+Year: 2017
+Title: Mobile gait analysis via eSHOEs instrumented shoe insoles: a pilot study for validation against the gold standard GAITRite((R))
+Journal: J Med Eng Technol
+Volume: 41
+Issue: 5
+Pages: 375-386
+",,,,,,,,,,,,,,,,,,,
+1367,"Author: Jarchi, D., Lo, B., Wong, C., Ieong, E., Nathwani, D. and Yang, G. Z.
+Year: 2016
+Title: Gait Analysis From a Single Ear-Worn Sensor: Reliability and Clinical Evaluation for Orthopaedic Patients
+Journal: IEEE Trans Neural Syst Rehabil Eng
+Volume: 24
+Issue: 8
+Pages: 882-92
+",,,,,,,,,,,,,,,,,,,
+1371,"Author: Javaid, A. Q., Noble, C. M., Rosenberg, R. and Weitnauer, M. A.
+Year: 2016
+Title: Towards detection of sleep apnea events by combining different non-contact measurement modalities
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2016
+Pages: 5307-5310",,,,,,,,,,,,,,,,,,,
+1372,"Author: Jayaraman, C., Mummidisetty, C. K., Mannix-Slobig, A., McGee Koch, L. and Jayaraman, A.
+Year: 2018
+Title: Variables influencing wearable sensor outcome estimates in individuals with stroke and incomplete spinal cord injury: a pilot investigation validating two research grade sensors
+Journal: J Neuroeng Rehabil
+Volume: 15
+Issue: 1
+Pages: 19
+",,,,,,,,,,,,,,,,,,,
+1375,"Author: Jeffery, E., Lee, Y. G., McVeigh, J., Straker, L., Wooding, T., Newton, R. U. and Peddle-McIntyre, C.
+Year: 2017
+Title: Feasibility of objectively measured physical activity and sedentary behavior in patients with malignant pleural effusion
+Journal: Support Care Cancer
+Volume: 25
+Issue: 10
+Pages: 3133-3141
+",,,,,,,,,,,,,,,,,,,
+1376,"Author: Jeon, H., Lee, W., Park, H., Lee, H. J., Kim, S. K., Kim, H. B., Jeon, B. and Park, K. S.
+Year: 2017
+Title: Automatic Classification of Tremor Severity in Parkinson's Disease Using a Wearable Device
+Journal: Sensors (Basel)
+Volume: 17
+Issue: 9
+",,,,,,,,,,,,,,,,,,,
+1377,"Author: Jeon, H., Lee, W., Park, H., Lee, H. J., Kim, S. K., Kim, H. B., Jeon, B. and Park, K. S.
+Year: 2017
+Title: High-accuracy automatic classification of Parkinsonian tremor severity using machine learning method
+Journal: Physiol Meas
+Volume: 38
+Issue: 11
+Pages: 1980-1999
+",,,,,,,,,,,,,,,,,,,
+1390,"Author: Jiang, P., Zhu, R., Dong, X. and Chang, Y.
+Year: 2018
+Title: Combination mode of physiological signals for diagnosis of OSAS using portable monitor
+Journal: Sleep Breath
+Volume: 22
+Issue: 1
+Pages: 123-129
+",,,,,,,,,,,,,,,,,,,
+1392,"Author: Jina, A., Tierney, M. J., Tamada, J. A., McGill, S., Desai, S., Chua, B., Chang, A. and Christiansen, M.
+Year: 2014
+Title: Design, development, and evaluation of a novel microneedle array-based continuous glucose monitor
+Journal: J Diabetes Sci Technol
+Volume: 8
+Issue: 3
+Pages: 483-7
+",,,,,,,,,,,,,,,,,,,
+1424,"Author: Jung da, W., Hwang, S. H., Lee, Y. J., Jeong, D. U. and Park, K. S.
+Year: 2016
+Title: Oxygen Desaturation Index Estimation through Unconstrained Cardiac Sympathetic Activity Assessment Using Three Ballistocardiographic Systems
+Journal: Respiration
+Volume: 92
+Issue: 2
+Pages: 90-7
+",,,,,,,,,,,,,,,,,,,
+1444,"Author: Kalcik, M., Yesin, M., Gursoy, M. O., Gunduz, S., Karakoyun, S., Astarcioglu, M. A., Bayam, E., Cersit, S. and Ozkan, M.
+Year: 2017
+Title: Comparison of the INR Values Measured by CoaguChek XS Coagulometer and Conventional Laboratory Methods in Patients on VKA Therapy
+Journal: Clin Appl Thromb Hemost
+Volume: 23
+Issue: 2
+Pages: 187-194
+",,,,,,,,,,,,,,,,,,,
+1472,"Author: Keawutan, P., Bell, K. L., Oftedal, S., Davies, P. S. and Boyd, R. N.
+Year: 2016
+Title: Validation of Accelerometer Cut-Points in Children With Cerebral Palsy Aged 4 to 5 Years
+Journal: Pediatr Phys Ther
+Volume: 28
+Issue: 4
+Pages: 427-34
+",,,,,,,,,,,,,,,,,,,
+1479,"Author: Kerr, J., Carlson, J., Godbole, S., Cadmus-Bertram, L., Bellettiere, J. and Hartman, S.
+Year: 2018
+Title: Improving Hip-Worn Accelerometer Estimates of Sitting Using Machine Learning Methods
+Journal: Med Sci Sports Exerc
+Volume: 50
+Issue: 7
+Pages: 1518-1524
+",,,,,,,,,,,,,,,,,,,
+1500,"Author: Kim, H. B., Lee, H. J., Lee, W. W., Kim, S. K., Jeon, H. S., Park, H. Y., Shin, C. W., Yi, W. J., Jeon, B. and Park, K. S.
+Year: 2018
+Title: Validation of Freezing-of-Gait Monitoring Using Smartphone
+Journal: Telemed J E Health
+",,,,,,,,,,,,,,,,,,,
+1510,"Author: Kim, K. J., Agrawal, V., Bennett, C., Gaunaurd, I., Feigenbaum, L. and Gailey, R.
+Year: 2018
+Title: Measurement of lower limb segmental excursion using inertial sensors during single limb stance
+Journal: J Biomech
+Volume: 71
+Pages: 151-158
+",,,,,,,,,,,,,,,,,,,
+1529,"Author: Kinoshita, T., Yahaba, M., Terada, J., Matsumura, T., Sakurai, Y., Nagashima, K., Sakao, S. and Tatsumi, K.
+Year: 2018
+Title: Impact of Arterial Stiffness on WatchPAT Variables in Patients With Obstructive Sleep Apnea
+Journal: J Clin Sleep Med
+Volume: 14
+Issue: 3
+Pages: 319-325
+",,,,,,,,,,,,,,,,,,,
+1533,"Author: Kiral-Kornek, I., Roy, S., Nurse, E., Mashford, B., Karoly, P., Carroll, T., Payne, D., Saha, S., Baldassano, S., O'Brien, T., Grayden, D., Cook, M., Freestone, D. and Harrer, S.
+Year: 2018
+Title: Epileptic Seizure Prediction Using Big Data and Deep Learning: Toward a Mobile System
+Journal: EBioMedicine
+Volume: 27
+Pages: 103-111
+",,,,,,,,,,,,,,,,,,,
+1548,"Author: Kluge, F., Gassner, H., Hannink, J., Pasluosta, C., Klucken, J. and Eskofier, B. M.
+Year: 2017
+Title: Towards Mobile Gait Analysis: Concurrent Validity and Test-Retest Reliability of an Inertial Measurement System for the Assessment of Spatio-Temporal Gait Parameters
+Journal: Sensors (Basel)
+Volume: 17
+Issue: 7
+",,,,,,,,,,,,,,,,,,,
+1560,"Author: Koene, S., Dirks, I., van Mierlo, E., de Vries, P. R., Janssen, Ajwm, Smeitink, J. A. M., Bergsma, A., Essers, H., Meijer, K. and de Groot, I. J. M.
+Year: 2017
+Title: Domains of Daily Physical Activity in Children with Mitochondrial Disease: A 3D Accelerometry Approach
+Journal: JIMD Rep
+Volume: 36
+Pages: 7-17
+",,,,,,,,,,,,,,,,,,,
+1566,"Author: Komarzynski, S., Huang, Q., Innominato, P. F., Maurice, M., Arbaud, A., Beau, J., Bouchahda, M., Ulusakarya, A., Beaumatin, N., Breda, G., Finkenstadt, B. and Levi, F.
+Year: 2018
+Title: Relevance of a Mobile Internet Platform for Capturing Inter- and Intrasubject Variabilities in Circadian Coordination During Daily Routine: Pilot Study
+Journal: J Med Internet Res
+Volume: 20
+Issue: 6
+Pages: e204
+",,,,,,,,,,,,,,,,,,,
+1569,"Author: Konharn, K., Eungpinichpong, W., Promdee, K., Sangpara, P., Nongharnpitak, S., Malila, W. and Karawa, J.
+Year: 2016
+Title: Validity and Reliability of Smartphone Applications for the Assessment of Walking and Running in Normal-weight and Overweight/Obese Young Adults
+Journal: J Phys Act Health
+Volume: 13
+Issue: 12
+Pages: 1333-1340
+",,,,,,,,,,,,,,,,,,,
+1581,"Author: Koutsonas, A., Walter, P., Roessler, G. and Plange, N.
+Year: 2015
+Title: Implantation of a novel telemetric intraocular pressure sensor in patients with glaucoma (ARGOS study): 1-year results
+Journal: Invest Ophthalmol Vis Sci
+Volume: 56
+Issue: 2
+Pages: 1063-9
+",,,,,,,,,,,,,,,,,,,
+1584,"Author: Kocer, A. and Oktay, A. B.
+Year: 2016
+Title: Nintendo Wii assessment of Hoehn and Yahr score with Parkinson's disease tremor
+Journal: Technol Health Care
+Volume: 24
+Issue: 2
+Pages: 185-91
+",,,,,,,,,,,,,,,,,,,
+1611,"Author: Kunisaki, K. M., Bohn, O. A., Wetherbee, E. E. and Rector, T. S.
+Year: 2016
+Title: High-resolution wrist-worn overnight oximetry has high positive predictive value for obstructive sleep apnea in a sleep study referral population
+Journal: Sleep Breath
+Volume: 20
+Issue: 2
+Pages: 583-7
+",,,,,,,,,,,,,,,,,,,
+1615,"Author: Kuo, C. E., Liu, Y. C., Chang, D. W., Young, C. P., Shaw, F. Z. and Liang, S. F.
+Year: 2017
+Title: Development and Evaluation of a Wearable Device for Sleep Quality Assessment
+Journal: IEEE Trans Biomed Eng
+Volume: 64
+Issue: 7
+Pages: 1547-1557
+",,,,,,,,,,,,,,,,,,,
+1619,"Author: Kusmakar, S., Karmakar, C. K., Yan, B., O'Brien, T. J., Muthuganapathy, R. and Palaniswami, M.
+Year: 2017
+Title: Detection of generalized tonic-clonic seizures using short length accelerometry signal
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2017
+Pages: 4566-4569
+",,,,,,,,,,,,,,,,,,,
+1624,"Author: Kwasnicki, R. M., Ali, R., Jordan, S. J., Atallah, L., Leong, J. J., Jones, G. G., Cobb, J., Yang, G. Z. and Darzi, A.
+Year: 2015
+Title: A wearable mobility assessment device for total knee replacement: A longitudinal feasibility study
+Journal: Int J Surg
+Volume: 18
+Pages: 14-20
+",,,,,,,,,,,,,,,,,,,
+1635,"Author: Laffel, L.
+Year: 2016
+Title: Improved Accuracy of Continuous Glucose Monitoring Systems in Pediatric Patients with Diabetes Mellitus: Results from Two Studies
+Journal: Diabetes Technol Ther
+Volume: 18 Suppl 2
+Pages: S223-33
+",,,,,,,,,,,,,,,,,,,
+1637,"Author: Lai, J., Woodward, R., Alexandrov, Y., Ain Munnee, Q., Lees, C. C., Vaidyanathan, R. and Nowlan, N. C.
+Year: 2018
+Title: Performance of a wearable acoustic system for fetal movement discrimination
+Journal: PLoS One
+Volume: 13
+Issue: 5
+Pages: e0195728
+",,,,,,,,,,,,,,,,,,,
+1645,"Author: Lamont, R. M., Daniel, H. L., Payne, C. L. and Brauer, S. G.
+Year: 2018
+Title: Accuracy of wearable physical activity trackers in people with Parkinson's disease
+Journal: Gait Posture
+Volume: 63
+Pages: 104-108
+",,,,,,,,,,,,,,,,,,,
+1693,"Author: Lee, H. K., Kim, H. and Lee, K. J.
+Year: 2015
+Title: Nasal pressure recordings for automatic snoring detection
+Journal: Med Biol Eng Comput
+Volume: 53
+Issue: 11
+Pages: 1103-11
+",,,,,,,,,,,,,,,,,,,
+1698,"Author: Lee, J. H., Park, J. H. and Kim, Y. J.
+Year: 2015
+Title: Sensitivity of the accelerometer as a measurement tool for upper extremity movement by stroke patients: a comparison with the action research arm test
+Journal: J Phys Ther Sci
+Volume: 27
+Issue: 4
+Pages: 1053-4
+",,,,,,,,,,,,,,,,,,,
+1703,"Author: Lee, S., Lee, Y. S. and Kim, J.
+Year: 2018
+Title: Automated Evaluation of Upper-Limb Motor Function Impairment Using Fugl-Meyer Assessment
+Journal: IEEE Trans Neural Syst Rehabil Eng
+Volume: 26
+Issue: 1
+Pages: 125-134
+Epub Date: 2017/09/28
+",,,,,,,,,,,,,,,,,,,
+1728,"Author: Levendowski, D. J., Ferini-Strambi, L., Gamaldo, C., Cetel, M., Rosenberg, R. and Westbrook, P. R.
+Year: 2017
+Title: The Accuracy, Night-to-Night Variability, and Stability of Frontopolar Sleep Electroencephalography Biomarkers
+Journal: J Clin Sleep Med
+Volume: 13
+Issue: 6
+Pages: 791-803
+",,,,,,,,,,,,,,,,,,,
+1752,"Author: Li, Y., Zhang, X., Gong, Y., Cheng, Y., Gao, X. and Chen, X.
+Year: 2017
+Title: Motor Function Evaluation of Hemiplegic Upper-Extremities Using Data Fusion from Wearable Inertial and Surface EMG Sensors
+Journal: Sensors (Basel)
+Volume: 17
+Issue: 3
+",,,,,,,,,,,,,,,,,,,
+1796,"Author: Liu, Y., Yang, D., Xiong, F., Yu, L., Ji, F. and Wang, Q. J.
+Year: 2015
+Title: Development and Validation of a Portable Hearing Self-Testing System Based on a Notebook Personal Computer
+Journal: J Am Acad Audiol
+Volume: 26
+Issue: 8
+Pages: 716-23
+",,,,,,,,,,,,,,,,,,,
+1809,"Author: Long, A., Edwards, J., Worthington, J., Cotterill, N., Weir, I., Drake, M. J. and van den Heuvel, E.
+Year: 2015
+Title: Clinical Evaluation of a Prototype Underwear Designed to Detect Urine Leakage From Continence Pads
+Journal: J Wound Ostomy Continence Nurs
+Volume: 42
+Issue: 6
+Pages: 632-9
+",,,,,,,,,,,,,,,,,,,
+1817,"Author: Lopane, G., Mellone, S., Chiari, L., Cortelli, P., Calandra-Buonaura, G. and Contin, M.
+Year: 2015
+Title: Dyskinesia detection and monitoring by a single sensor in patients with Parkinson's disease
+Journal: Mov Disord
+Volume: 30
+Issue: 9
+Pages: 1267-71
+",,,,,,,,,,,,,,,,,,,
+1829,"Author: Low, C. A., Dey, A. K., Ferreira, D., Kamarck, T., Sun, W., Bae, S. and Doryab, A.
+Year: 2017
+Title: Estimation of Symptom Severity During Chemotherapy From Passively Sensed Data: Exploratory Study
+Journal: J Med Internet Res
+Volume: 19
+Issue: 12
+Pages: e420
+",,,,,,,,,,,,,,,,,,,
+1851,"Author: Lopez-Blanco, R., Velasco, M. A., Mendez-Guerrero, A., Romero, J. P., Del Castillo, M. D., Serrano, J. I., Benito-Leon, J., Bermejo-Pareja, F. and Rocon, E.
+Year: 2018
+Title: Essential tremor quantification based on the combined use of a smartphone and a smartwatch: The NetMD study
+Journal: J Neurosci Methods
+Volume: 303
+Pages: 95-102
+",,,,,,,,,,,,,,,,,,,
+1898,"Author: Mannini, A., Trojaniello, D., Cereatti, A. and Sabatini, A. M.
+Year: 2016
+Title: A Machine Learning Framework for Gait Classification Using Inertial Sensors: Application to Elderly, Post-Stroke and Huntington's Disease Patients
+Journal: Sensors (Basel)
+Volume: 16
+Issue: 1
+",,,,,,,,,,,,,,,,,,,
+1900,"Author: Mannini, A., Trojaniello, D., Della Croce, U. and Sabatini, A. M.
+Year: 2015
+Title: Hidden Markov model-based strategy for gait segmentation using inertial sensors: Application to elderly, hemiparetic patients and Huntington's disease patients
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2015
+Pages: 5179-82
+",,,,,,,,,,,,,,,,,,,
+1908,"Author: Maqbool, H. F., Husman, M. A. B., Awad, M. I., Abouhossein, A., Iqbal, N. and Dehghani-Sanij, A. A.
+Year: 2017
+Title: A Real-Time Gait Event Detection for Lower Limb Prosthesis Control and Evaluation
+Journal: IEEE Trans Neural Syst Rehabil Eng
+Volume: 25
+Issue: 9
+Pages: 1500-1509
+",,,,,,,,,,,,,,,,,,,
+1922,"Author: Marschollek, M., Becker, M., Bauer, J. M., Bente, P., Dasenbrock, L., Elbers, K., Hein, A., Kolb, G., Kunemund, H., Lammel-Polchau, C., Meis, M., Meyer Zu Schwabedissen, H., Remmers, H., Schulze, M., Steen, E. E., Thoben, W., Wang, J., Wolf, K. H. and Haux, R.
+Year: 2014
+Title: Multimodal activity monitoring for home rehabilitation of geriatric fracture patients--feasibility and acceptance of sensor systems in the GAL-NATARS study
+Journal: Inform Health Soc Care
+Volume: 39
+Issue: 3-4
+Pages: 262-71
+",,,,,,,,,,,,,,,,,,,
+1938,"Author: Masse, F., Gonzenbach, R. R., Arami, A., Paraschiv-Ionescu, A., Luft, A. R. and Aminian, K.
+Year: 2015
+Title: Improving activity recognition using a wearable barometric pressure sensor in mobility-impaired stroke patients
+Journal: J Neuroeng Rehabil
+Volume: 12
+Pages: 72
+",,,,,,,,,,,,,,,,,,,
+1962,"Author: Mazilu, S., Calatroni, A., Gazit, E., Mirelman, A., Hausdorff, J. M. and Troster, G.
+Year: 2015
+Title: Prediction of Freezing of Gait in Parkinson's From Physiological Wearables: An Exploratory Study
+Journal: IEEE J Biomed Health Inform
+Volume: 19
+Issue: 6
+Pages: 1843-54
+",,,,,,,,,,,,,,,,,,,
+1963,"Author: Mc Ardle, R., Morris, R., Hickey, A., Del Din, S., Koychev, I., Gunn, R. N., Lawson, J., Zamboni, G., Ridha, B., Sahakian, B. J., Rowe, J. B., Thomas, A., Zetterberg, H., MacKay, C., Lovestone, S. and Rochesteron, L.
+Year: 2018
+Title: Gait in Mild Alzheimer's Disease: Feasibility of Multi-Center Measurement in the Clinic and Home with Body-Worn Sensors: A Pilot Study
+Journal: J Alzheimers Dis
+Volume: 63
+Issue: 1
+Pages: 331-341
+",,,,,,,,,,,,,,,,,,,
+1965,"Author: McAuley, S. A., Dang, T. T., Horsburgh, J. C., Bansal, A., Ward, G. M., Aroyan, S., Jenkins, A. J., MacIsaac, R. J., Shah, R. V. and O'Neal, D. N.
+Year: 2016
+Title: Feasibility of an Orthogonal Redundant Sensor incorporating Optical plus Redundant Electrochemical Glucose Sensing
+Journal: J Diabetes Sci Technol
+Volume: 10
+Issue: 3
+Pages: 679-88
+",,,,,,,,,,,,,,,,,,,
+1971,"Author: McGarty, A. M., Penpraze, V. and Melville, C. A.
+Year: 2016
+Title: Calibration and Cross-Validation of the ActiGraph wGT3X+ Accelerometer for the Estimation of Physical Activity Intensity in Children with Intellectual Disabilities
+Journal: PLoS One
+Volume: 11
+Issue: 10
+Pages: e0164928
+",,,,,,,,,,,,,,,,,,,
+1972,"Author: McGinley, S. K., Armstrong, M. J., Khandwala, F., Zanuso, S. and Sigal, R. J.
+Year: 2015
+Title: Assessment of the MyWellness Key accelerometer in people with type 2 diabetes
+Journal: Appl Physiol Nutr Metab
+Volume: 40
+Issue: 11
+Pages: 1193-8
+",,,,,,,,,,,,,,,,,,,
+1974,"Author: McGinnis, R. S., Mahadevan, N., Moon, Y., Seagers, K., Sheth, N., Wright, J. A., Jr., DiCristofaro, S., Silva, I., Jortberg, E., Ceruolo, M., Pindado, J. A., Sosnoff, J., Ghaffari, R. and Patel, S.
+Year: 2017
+Title: A machine learning approach for gait speed estimation using skin-mounted wearable sensors: From healthy controls to individuals with multiple sclerosis
+Journal: PLoS One
+Volume: 12
+Issue: 6
+Pages: e0178366
+",,,,,,,,,,,,,,,,,,,
+1994,"Author: Meissner, W. G., Flabeau, O., Perez, P., Taillard, J., Marquant, F., Dupouy, S., Tison, F., Philip, P. and Ghorayeb, I.
+Year: 2014
+Title: Accuracy of portable polygraphy for the diagnosis of sleep apnea in multiple system atrophy
+Journal: Sleep Med
+Volume: 15
+Issue: 4
+Pages: 476-9
+",,,,,,,,,,,,,,,,,,,
+2002,"Author: Memar, S., Delrobaei, M., Pieterman, M., McIsaac, K. and Jog, M.
+Year: 2018
+Title: Quantification of whole-body bradykinesia in Parkinson's disease participants using multiple inertial sensors
+Journal: J Neurol Sci
+Volume: 387
+Pages: 157-165
+",,,,,,,,,,,,,,,,,,,
+2015,"Author: Merbler, A. M., Byiers, B. J., Garcia, J. J., Feyma, T. J. and Symons, F. J.
+Year: 2018
+Title: The feasibility of using actigraphy to characterize sleep in Rett syndrome
+Journal: J Neurodev Disord
+Volume: 10
+Issue: 1
+Pages: 8
+",,,,,,,,,,,,,,,,,,,
+2016,"Author: Mercer, K., Giangregorio, L., Schneider, E., Chilana, P., Li, M. and Grindrod, K.
+Year: 2016
+Title: Acceptance of Commercially Available Wearable Activity Trackers Among Adults Aged Over 50 and With Chronic Illness: A Mixed-Methods Evaluation
+Journal: JMIR Mhealth Uhealth
+Volume: 4
+Issue: 1
+Pages: e7
+",,,,,,,,,,,,,,,,,,,
+2023,"Author: Messer, L. H., Calhoun, P., Buckingham, B., Wilson, D. M., Hramiak, I., Ly, T. T., Driscoll, M., Clinton, P. and Maahs, D. M.
+Year: 2017
+Title: In-home nighttime predictive low glucose suspend experience in children and adults with type 1 diabetes
+Journal: Pediatr Diabetes
+Volume: 18
+Issue: 5
+Pages: 332-339
+",,,,,,,,,,,,,,,,,,,
+2035,"Author: Mileti, I., Germanotta, M., Di Sipio, E., Imbimbo, I., Pacilli, A., Erra, C., Petracca, M., Rossi, S., Del Prete, Z., Bentivoglio, A. R., Padua, L. and Palermo, E.
+Year: 2018
+Title: Measuring Gait Quality in Parkinson's Disease through Real-Time Gait Phase Recognition
+Journal: Sensors (Basel)
+Volume: 18
+Issue: 3
+",,,,,,,,,,,,,,,,,,,
+2053,"Author: Mitchell, T., Borner, K., Finch, J., Kerr, J. and Carlson, J. A.
+Year: 2017
+Title: Using Activity Monitors to Measure Sit-to-Stand Transitions in Overweight/Obese Youth
+Journal: Med Sci Sports Exerc
+Volume: 49
+Issue: 8
+Pages: 1592-1598
+",,,,,,,,,,,,,,,,,,,
+2076,"Author: Moon, Y., McGinnis, R. S., Seagers, K., Motl, R. W., Sheth, N., Wright, J. A., Jr., Ghaffari, R. and Sosnoff, J. J.
+Year: 2017
+Title: Monitoring gait in multiple sclerosis with novel wearable motion sensors
+Journal: PLoS One
+Volume: 12
+Issue: 2
+Pages: e0171346
+",,,,,,,,,,,,,,,,,,,
+2095,"Author: Moss, S. J. and Czyz, S. H.
+Year: 2018
+Title: Level of agreement between physical activity levels measured by ActiHeart and the International Physical Activity Questionnaire in persons with intellectual disability
+Journal: Disabil Rehabil
+Volume: 40
+Issue: 3
+Pages: 360-366
+",,,,,,,,,,,,,,,,,,,
+2098,"Author: Motl, R. W., McAuley, E. and Klaren, R.
+Year: 2014
+Title: Reliability of physical-activity measures over six months in adults with multiple sclerosis: implications for designing behavioral interventions
+Journal: Behav Med
+Volume: 40
+Issue: 1
+Pages: 29-33
+",,,,,,,,,,,,,,,,,,,
+2122,"Author: Myllymaa, S., Muraja-Murro, A., Westeren-Punnonen, S., Hukkanen, T., Lappalainen, R., Mervaala, E., Toyras, J., Sipila, K. and Myllymaa, K.
+Year: 2016
+Title: Assessment of the suitability of using a forehead EEG electrode set and chin EMG electrodes for sleep staging in polysomnography
+Journal: J Sleep Res
+Volume: 25
+Issue: 6
+Pages: 636-645
+",,,,,,,,,,,,,,,,,,,
+2137,"Author: Najafi, B., Mohseni, H., Grewal, G. S., Talal, T. K., Menzies, R. A. and Armstrong, D. G.
+Year: 2017
+Title: An Optical-Fiber-Based Smart Textile (Smart Socks) to Manage Biomechanical Risk Factors Associated With Diabetic Foot Amputation
+Journal: J Diabetes Sci Technol
+Volume: 11
+Issue: 4
+Pages: 668-677
+",,,,,,,,,,,,,,,,,,,
+2140,"Author: Nakanishi, M., Wang, Y. T., Jung, T. P., Zao, J. K., Chien, Y. Y., Diniz-Filho, A., Daga, F. B., Lin, Y. P., Wang, Y. and Medeiros, F. A.
+Year: 2017
+Title: Detecting Glaucoma With a Portable Brain-Computer Interface for Objective Assessment of Visual Function Loss
+Journal: JAMA Ophthalmol
+Volume: 135
+Issue: 6
+Pages: 550-557
+",,,,,,,,,,,,,,,,,,,
+2152,"Author: Naslund, J. A., Aschbrenner, K. A., Barre, L. K. and Bartels, S. J.
+Year: 2015
+Title: Feasibility of popular m-health technologies for activity tracking among individuals with serious mental illness
+Journal: Telemed J E Health
+Volume: 21
+Issue: 3
+Pages: 213-6
+",,,,,,,,,,,,,,,,,,,
+2165,"Author: Nero, H., Benka Wallen, M., Franzen, E., Stahle, A. and Hagstromer, M.
+Year: 2015
+Title: Accelerometer Cut Points for Physical Activity Assessment of Older Adults with Parkinson's Disease
+Journal: PLoS One
+Volume: 10
+Issue: 9
+Pages: e0135899
+",,,,,,,,,,,,,,,,,,,
+2167,"Author: Newman, C. J., Bruchez, R., Roches, S., Jequier Gygax, M., Duc, C., Dadashi, F., Masse, F. and Aminian, K.
+Year: 2017
+Title: Measuring upper limb function in children with hemiparesis with 3D inertial sensors
+Journal: Childs Nerv Syst
+Volume: 33
+Issue: 12
+Pages: 2159-2168
+",,,,,,,,,,,,,,,,,,,
+2171,"Author: Nguyen, H., Lebel, K., Boissy, P., Bogard, S., Goubault, E. and Duval, C.
+Year: 2017
+Title: Auto detection and segmentation of daily living activities during a Timed Up and Go task in people with Parkinson's disease using multiple inertial sensors
+Journal: J Neuroeng Rehabil
+Volume: 14
+Issue: 1
+Pages: 26
+",,,,,,,,,,,,,,,,,,,
+2198,"Author: Noor, Z. M., Smith, A. J., Smith, S. S. and Nissen, L. M.
+Year: 2016
+Title: A feasibility study: Use of actigraph to monitor and follow-up sleep/wake patterns in individuals attending community pharmacy with sleeping disorders
+Journal: J Pharm Bioallied Sci
+Volume: 8
+Issue: 3
+Pages: 173-80
+",,,,,,,,,,,,,,,,,,,
+2200,"Author: Norman, M. B., Pithers, S. M., Teng, A. Y., Waters, K. A. and Sullivan, C. E.
+Year: 2017
+Title: Validation of the Sonomat Against PSG and Quantitative Measurement of Partial Upper Airway Obstruction in Children With Sleep-Disordered Breathing
+Journal: Sleep
+Volume: 40
+Issue: 3
+",,,,,,,,,,,,,,,,,,,
+2201,"Author: Norman, M. B., Middleton, S., Erskine, O., Middleton, P. G., Wheatley, J. R. and Sullivan, C. E.
+Year: 2014
+Title: Validation of the Sonomat: a contactless monitoring system used for the diagnosis of sleep disordered breathing
+Journal: Sleep
+Volume: 37
+Issue: 9
+Pages: 1477-87
+",,,,,,,,,,,,,,,,,,,
+2211,"Author: Nolker, G., Mayer, J., Boldt, L. H., Seidl, K., V, V. A. N. Driel, Massa, T., Kollum, M., Brachmann, J., Deneke, T., Hindricks, G., Jung, W., Brunner, K. J., Kraus, S., Hummer, A. and Lewalter, T.
+Year: 2016
+Title: Performance of an Implantable Cardiac Monitor to Detect Atrial Fibrillation: Results of the DETECT AF Study
+Journal: J Cardiovasc Electrophysiol
+Volume: 27
+Issue: 12
+Pages: 1403-1410
+",,,,,,,,,,,,,,,,,,,
+2214,"Author: O'Brien, M. K., Shawen, N., Mummidisetty, C. K., Kaur, S., Bo, X., Poellabauer, C., Kording, K. and Jayaraman, A.
+Year: 2017
+Title: Activity Recognition for Persons With Stroke Using Mobile Phone Technology: Toward Improved Performance in a Home Setting
+Journal: J Med Internet Res
+Volume: 19
+Issue: 5
+Pages: e184
+",,,,,,,,,,,,,,,,,,,
+2220,"Author: O'Neil, M. E., Fragala-Pinkham, M. A., Forman, J. L. and Trost, S. G.
+Year: 2014
+Title: Measuring reliability and validity of the ActiGraph GT3X accelerometer for children with cerebral palsy: a feasibility study
+Journal: J Pediatr Rehabil Med
+Volume: 7
+Issue: 3
+",,,,,,,,,,,,,,,,,,,
+2221,"Author: O'Neill, B., McDonough, S. M., Wilson, J. J., Bradbury, I., Hayes, K., Kirk, A., Kent, L., Cosgrove, D., Bradley, J. M. and Tully, M. A.
+Year: 2017
+Title: Comparing accelerometer, pedometer and a questionnaire for measuring physical activity in bronchiectasis: a validity and feasibility study?
+Journal: Respir Res
+Volume: 18
+Issue: 1
+Pages: 16
+",,,,,,,,,,,,,,,,,,,
+2228,"Author: Oftedal, S., Bell, K. L., Davies, P. S., Ware, R. S. and Boyd, R. N.
+Year: 2014
+Title: Validation of accelerometer cut points in toddlers with and without cerebral palsy
+Journal: Med Sci Sports Exerc
+Volume: 46
+Issue: 9
+Pages: 1808-15
+",,,,,,,,,,,,,,,,,,,
+2231,"Author: Ojeda, M. and Ding, D.
+Year: 2014
+Title: Temporal parameters estimation for wheelchair propulsion using wearable sensors
+Journal: Biomed Res Int
+Volume: 2014
+Pages: 645284
+",,,,,,,,,,,,,,,,,,,
+2242,"Author: Onorati, F., Regalia, G., Caborni, C., Migliorini, M., Bender, D., Poh, M. Z., Frazier, C., Kovitch Thropp, E., Mynatt, E. D., Bidwell, J., Mai, R., LaFrance, W. C., Jr., Blum, A. S., Friedman, D., Loddenkemper, T., Mohammadpour-Touserkani, F., Reinsberger, C., Tognetti, S. and Picard, R. W.
+Year: 2017
+Title: Multicenter clinical assessment of improved wearable multimodal convulsive seizure detectors
+Journal: Epilepsia
+Volume: 58
+Issue: 11
+Pages: 1870-1879
+",,,,,,,,,,,,,,,,,,,
+2260,"Author: Ovadia-Blechman, Z., Avrahami, I., Weizman-Shammai, E., Sharir, T., Eldar, M. and Chouraqui, P.
+Year: 2015
+Title: Peripheral microcirculatory hemodynamic changes in patients with myocardial ischemia
+Journal: Biomed Pharmacother
+Volume: 74
+Pages: 83-8
+",,,,,,,,,,,,,,,,,,,
+2273,"Author: Pallin, M., O'Hare, E., Zaffaroni, A., Boyle, P., Fagan, C., Kent, B., Heneghan, C., de Chazal, P. and McNicholas, W. T.
+Year: 2014
+Title: Comparison of a novel non-contact biomotion sensor with wrist actigraphy in estimating sleep quality in patients with obstructive sleep apnoea
+Journal: J Sleep Res
+Volume: 23
+Issue: 4
+Pages: 475-84
+",,,,,,,,,,,,,,,,,,,
+2274,"Author: Palmerini, L., Rocchi, L., Mazilu, S., Gazit, E., Hausdorff, J. M. and Chiari, L.
+Year: 2017
+Title: Identification of Characteristic Motor Patterns Preceding Freezing of Gait in Parkinson's Disease Using Wearable Sensors
+Journal: Front Neurol
+Volume: 8
+Pages: 394
+",,,,,,,,,,,,,,,,,,,
+2291,"Author: Parekh, A. S., Mansouri, K., Weinreb, R. N., Tafreshi, A., Korn, B. S. and Kikkawa, D. O.
+Year: 2015
+Title: Twenty-four-hour intraocular pressure patterns in patients with thyroid eye disease
+Journal: Clin Exp Ophthalmol
+Volume: 43
+Issue: 2
+Pages: 108-14
+",,,,,,,,,,,,,,,,,,,
+2296,"Author: Park, D. Y., Kim, H. J., Kim, C. H., Kim, Y. S., Choi, J. H., Hong, S. Y., Jung, J. J., Lee, K. I. and Lee, H. S.
+Year: 2015
+Title: Reliability and validity testing of automated scoring in obstructive sleep apnea diagnosis with the Embletta X100
+Journal: Laryngoscope
+Volume: 125
+Issue: 2
+Pages: 493-7
+",,,,,,,,,,,,,,,,,,,
+2316,"Author: Patterson, A. L., Mudigoudar, B., Fulton, S., McGregor, A., Poppel, K. V., Wheless, M. C., Brooks, L. and Wheless, J. W.
+Year: 2015
+Title: SmartWatch by SmartMonitor: Assessment of Seizure Detection Efficacy for Various Seizure Types in Children, a Large Prospective Single-Center Study
+Journal: Pediatr Neurol
+Volume: 53
+Issue: 4
+Pages: 309-11
+Epub Date: 2015
+",,,,,,,,,,,,,,,,,,,
+2318,"Author: Pau, M., Caggiari, S., Mura, A., Corona, F., Leban, B., Coghe, G., Lorefice, L., Marrosu, M. G. and Cocco, E.
+Year: 2016
+Title: Clinical assessment of gait in individuals with multiple sclerosis using wearable inertial sensors: Comparison with patient-based measure
+Journal: Mult Scler Relat Disord
+Volume: 10
+Pages: 187-191
+",,,,,,,,,,,,,,,,,,,
+2345,"Author: Pham, M. H., Elshehabi, M., Haertner, L., Del Din, S., Srulijes, K., Heger, T., Synofzik, M., Hobert, M. A., Faber, G. S., Hansen, C., Salkovic, D., Ferreira, J. J., Berg, D., Sanchez-Ferro, A., van Dieen, J. H., Becker, C., Rochester, L., Schmidt, G. and Maetzler, W.
+Year: 2017
+Title: Validation of a Step Detection Algorithm during Straight Walking and Turning in Patients with Parkinson's Disease and Older Adults Using an Inertial Measurement Unit at the Lower Back
+Journal: Front Neurol
+Volume: 8
+Pages: 457
+",,,,,,,,,,,,,,,,,,,
+2346,"Author: Pham, M. H., Elshehabi, M., Haertner, L., Heger, T., Hobert, M. A., Faber, G. S., Salkovic, D., Ferreira, J. J., Berg, D., Sanchez-Ferro, A., van Dieen, J. H. and Maetzler, W.
+Year: 2017
+Title: Algorithm for Turning Detection and Analysis Validated under Home-Like Conditions in Patients with Parkinson's Disease and Older Adults using a 6 Degree-of-Freedom Inertial Measurement Unit at the Lower Back
+Journal: Front Neurol
+Volume: 8
+Pages: 135
+",,,,,,,,,,,,,,,,,,,
+2360,"Author: Pienaar, A. W. and Barnard, J. G.
+Year: 2017
+Title: Development, validity and reliability of a new pressure air biofeedback device (PAB) for measuring isometric extension strength of the lumbar spine
+Journal: J Med Eng Technol
+Volume: 41
+Issue: 3
+Pages: 216-222
+",,,,,,,,,,,,,,,,,,,
+2365,"Author: Pinna, G. D., Robbi, E., Pizza, F., Taurino, A. E., Pronzato, C., La Rovere, M. T. and Maestri, R.
+Year: 2014
+Title: Can cardiorespiratory polygraphy replace portable polysomnography in the assessment of sleep-disordered breathing in heart failure patients?
+Journal: Sleep Breath
+Volume: 18
+Issue: 3
+Pages: 475-82
+",,,,,,,,,,,,,,,,,,,
+2400,"Author: Prasad, B., Usmani, S., Steffen, A. D., Van Dongen, H. P., Pack, F. M., Strakovsky, I., Staley, B., Dinges, D., Maislin, G., Pack, A. I. and Weaver, T. E.
+Year: 2016
+Title: Short-Term Variability in Apnea-Hypopnea Index during Extended Home Portable Monitoring
+Journal: J Clin Sleep Med
+Volume: 12
+Issue: 6
+Pages: 855-63
+",,,,,,,,,,,,,,,,,,,
+2406,"Author: Prieto-Centurion, V., Bracken, N., Norwick, L., Zaidi, F., Mutso, A. A., Morken, V., Coultas, D. B., Rand, C. S., Marquez, D. X. and Krishnan, J. A.
+Year: 2016
+Title: Can Commercially Available Pedometers Be Used For Physical Activity Monitoring In Patients With COPD Following Exacerbations?
+Journal: Chronic Obstr Pulm Dis
+Volume: 3
+Issue: 3
+Pages: 636-642
+
+",,,,,,,,,,,,,,,,,,,
+2418,"Author: Ptomey, L. T., Willis, E. A., Lee, J., Washburn, R. A., Gibson, C. A., Honas, J. J. and Donnelly, J. E.
+Year: 2017
+Title: The feasibility of using pedometers for self-report of steps and accelerometers for measuring physical activity in adults with intellectual and developmental disabilities across an 18-month intervention
+Journal: J Intellect Disabil Res
+Volume: 61
+Issue: 8
+Pages: 792-801
+DOI: 10.1111/jir.12392
+",,,,,,,,,,,,,,,,,,,
+2421,"Author: Pulliam, C. L., Heldman, D. A., Brokaw, E. B., Mera, T. O., Mari, Z. K. and Burack, M. A.
+Year: 2018
+Title: Continuous Assessment of Levodopa Response in Parkinson's Disease Using Wearable Motion Sensors
+Journal: IEEE Trans Biomed Eng
+Volume: 65
+Issue: 1
+Pages: 159-164
+Epub Date: 2017/05/02
+Date: Jan
+Short Title: Continuous Assessment of Levodopa Response in Parkinson's Disease Using Wearable Motion Sensors
+Alternate Journal: IEEE transactions on bio-medical engineering
+ISSN: 0018-9294
+DOI: 10.1109/tbme.2017.2697764
+",,,,,,,,,,,,,,,,,,,
+2422,"Pulliam, C. L., Eichenseer, S. R., Goetz, C. G., Waln, O., Hunter, C. B., Jankovic, J., Vaillancourt, D. E., Giuffrida, J. P. and Heldman, D. A.
+Year: 2014
+Title: Continuous in-home monitoring of essential tremor
+Journal: Parkinsonism Relat Disord
+Volume: 20
+Issue: 1
+Pages: 37-40
+Epub Date: 2013/10/16
+Date: Jan
+Short Title: Continuous in-home monitoring of essential tremor
+Alternate Journal: Parkinsonism & related disorders
+ISSN: 1353-8020
+DOI: 10.1016/j.parkreldis.2013.09.009
+",,,,,,,,,,,,,,,,,,,
+2423,"Author: Pulliam, C. L., Burack, M. A., Heldman, D. A., Giuffrida, J. P. and Mera, T. O.
+Year: 2014
+Title: Motion sensor dyskinesia assessment during activities of daily living
+Journal: J Parkinsons Dis
+Volume: 4
+Issue: 4
+Pages: 609-15",,,,,,,,,,,,,,,,,,,
+2431,"Author: Perez-Lopez, C., Sama, A., Rodriguez-Martin, D., Moreno-Arostegui, J. M., Cabestany, J., Bayes, A., Mestre, B., Alcaine, S., Quispe, P., Laighin, G. O., Sweeney, D., Quinlan, L. R., Counihan, T. J., Browne, P., Annicchiarico, R., Costa, A., Lewy, H. and Rodriguez-Molinero, A.
+Year: 2016
+Title: Dopaminergic-induced dyskinesia assessment based on a single belt-worn accelerometer
+Journal: Artif Intell Med
+Volume: 67
+Pages: 47-56
+",,,,,,,,,,,,,,,,,,,
+2435,"Author: Qi, Y., Soh, C. B., Gunawan, E., Low, K. S. and Thomas, R.
+Year: 2016
+Title: Assessment of Foot Trajectory for Human Gait Phase Detection Using Wireless Ultrasonic Sensor Network
+Journal: IEEE Trans Neural Syst Rehabil Eng
+Volume: 24
+Issue: 1
+Pages: 88-97
+
+",,,,,,,,,,,,,,,,,,,
+2452,"Author: Rahimi, F., Bee, C., Duval, C., Boissy, P., Edwards, R. and Jog, M.
+Year: 2014
+Title: Using ecological whole body kinematics to evaluate effects of medication adjustment in Parkinson disease
+Journal: J Parkinsons Dis
+Volume: 4
+Issue: 4
+Pages: 617-27
+Epub Date: 2014/07/25
+Short Title: Using ecological whole body kinematics to evaluate effects of medication adjustment in Parkinson disease
+Alternate Journal: Journal of Parkinson's disease
+ISSN: 1877-7171
+DOI: 10.3233/jpd-140370
+",,,,,,,,,,,,,,,,,,,
+2463,"Author: Ramsperger, R., Meckler, S., Heger, T., van Uem, J., Hucker, S., Braatz, U., Graessner, H., Berg, D., Manoli, Y., Serrano, J. A., Ferreira, J. J., Hobert, M. A. and Maetzler, W.
+Year: 2016
+Title: Continuous leg dyskinesia assessment in Parkinson's disease -clinical validity and ecological effect
+Journal: Parkinsonism Relat Disord
+Volume: 26
+Pages: 41-6
+Epub Date: 2016/03/10
+Date: May
+Short Title: Continuous leg dyskinesia assessment in Parkinson's disease -clinical validity and ecological effect
+Alternate Journal: Parkinsonism & related disorders
+ISSN: 1353-8020
+DOI: 10.1016/j.parkreldis.2016.02.007
+",,,,,,,,,,,,,,,,,,,
+2475,"Author: Razjouyan, J., Lee, H., Parthasarathy, S., Mohler, J., Sharafkhaneh, A. and Najafi, B.
+Year: 2017
+Title: Improving Sleep Quality Assessment Using Wearable Sensors by Including Information From Postural/Sleep Position Changes and Body Acceleration: A Comparison of Chest-Worn Sensors, Wrist Actigraphy, and Polysomnography
+Journal: J Clin Sleep Med
+Volume: 13
+Issue: 11
+Pages: 1301-1310
+Epub Date: 2017/10/11
+Date: Nov 15
+ISSN: 1550-9389
+DOI: 10.5664/jcsm.6802
+",,,,,,,,,,,,,,,,,,,
+2517,"Raynor, H.
+Year: 2014
+Title: Monitoring capabilities of the Omron HJ-720ITC pedometer
+Journal: Phys Sportsmed
+Volume: 42
+Issue: 1
+Pages: 24-9
+Epub Date: 2014/02/26
+Date: Feb
+Short Title: Monitoring capabilities of the Omron HJ-720ITC pedometer
+Alternate Journal: The Physician and sportsmedicine
+ISSN: 0091-3847 (Print)
+0091-3847
+DOI: 10.3810/psm.2014.02.2044
+",,,,,,,,,,,,,,,,,,,
+2522,"Author: Rigas, G., Gatsios, D., Fotiadis, D. I., Chondrogiorgi, M., Tsironis, C., Konitsiotis, S., Gentile, G., Marcante, A. and Antonini, A.
+Year: 2016
+Title: Tremor UPDRS estimation in home environment
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2016
+Pages: 3642-3645
+Epub Date: 2017/03/09
+DOI: 10.1109/embc.2016.7591517
+",,,,,,,,,,,,,,,,,,,
+2536,"Author: Rocchi, L., Palmerini, L., Weiss, A., Herman, T. and Hausdorff, J. M.
+Year: 2014
+Title: Balance testing with inertial sensors in patients with Parkinson's disease: assessment of motor subtypes
+Journal: IEEE Trans Neural Syst Rehabil Eng
+Volume: 22
+Issue: 5
+Pages: 1064-71
+Epub Date: 2014/04/25
+DOI: 10.1109/tnsre.2013.2292496
+",,,,,,,,,,,,,,,,,,,
+2541,"Author: Rodriguez-Villegas, E., Chen, G., Radcliffe, J. and Duncan, J.
+Year: 2014
+Title: A pilot study of a wearable apnoea detection device
+Journal: BMJ Open
+Volume: 4
+Issue: 10
+Pages: e005299
+Epub Date: 2014/10/05
+Date: Oct 3
+Short Title: A pilot study of a wearable apnoea detection device
+Alternate Journal: BMJ open
+ISSN: 2044-6055
+DOI: 10.1136/bmjopen-2014-005299
+",,,,,,,,,,,,,,,,,,,
+2542,"Author: Rodriguez-Martin, D., Sama, A., Perez-Lopez, C., Catala, A., Moreno Arostegui, J. M., Cabestany, J., Bayes, A., Alcaine, S., Mestre, B., Prats, A., Crespo, M. C., Counihan, T. J., Browne, P., Quinlan, L. R., G, O. Laighin, Sweeney, D., Lewy, H., Azuri, J., Vainstein, G., Annicchiarico, R., Costa, A. and Rodriguez-Molinero, A.
+Year: 2017
+Title: Home detection of freezing of gait using support vector machines through a single waist-worn triaxial accelerometer
+Journal: PLoS One
+Volume: 12
+Issue: 2
+DOI: 10.1371/journal.pone.0171764
+",,,,,,,,,,,,,,,,,,,
+2543,"Author: Rodriguez-Molinero, A., Perez-Lopez, C., Sama, A., de Mingo, E., Rodriguez-Martin, D., Hernandez-Vara, J., Bayes, A., Moral, A., Alvarez, R., Perez-Martinez, D. A. and Catala, A.
+Year: 2018
+Title: A Kinematic Sensor and Algorithm to Detect Motor Fluctuations in Parkinson Disease: Validation Study Under Real Conditions of Use
+Journal: JMIR Rehabil Assist Technol
+Volume: 5
+Issue: 1
+Pages: e8
+DOI: 10.2196/rehab.8335
+",,,,,,,,,,,,,,,,,,,
+2544,"Author: Rodriguez-Molinero, A., Sama, A., Perez-Lopez, C., Rodriguez-Martin, D., Alcaine, S., Mestre, B., Quispe, P., Giuliani, B., Vainstein, G., Browne, P., Sweeney, D., Moreno Arostegui, J. M., Bayes, A., Lewy, H., Costa, A., Annicchiarico, R., Counihan, T., Laighin, G. O. and Cabestany, J.
+Year: 2017
+Title: Analysis of Correlation between an Accelerometer-Based Algorithm for Detecting Parkinsonian Gait and UPDRS Subscales
+Journal: Front Neurol
+Volume: 8
+Pages: 431
+DOI: 10.3389/fneur.2017.00431
+",,,,,,,,,,,,,,,,,,,
+2545,"Author: Rodriguez-Molinero, A., Sama, A., Perez-Martinez, D. A., Perez Lopez, C., Romagosa, J., Bayes, A., Sanz, P., Calopa, M., Galvez-Barron, C., de Mingo, E., Rodriguez Martin, D., Gonzalo, N., Formiga, F., Cabestany, J. and Catala, A.
+Year: 2015
+Title: Validation of a portable device for mapping motor and gait disturbances in Parkinson's disease
+Journal: JMIR Mhealth Uhealth
+Volume: 3
+Issue: 1
+Pages: e9
+DOI: 10.2196/mhealth.3321
+",,,,,,,,,,,,,,,,,,,
+2557,"Author: Rosenwein, T., Dafna, E., Tarasiuk, A. and Zigel, Y.
+Year: 2014
+Title: Detection of breathing sounds during sleep using non-contact audio recordings
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2014
+Pages: 1489-92
+",,,,,,,,,,,,,,,,,,,
+2570,"Author: Roy, S., Cheng, M., Chang, S., Moore, J., De Luca, G., Nawab, S. and De Luca, C.
+Year: 2014
+Title: A Combined sEMG and Accelerometer System for Monitoring Functional Activity in Stroke
+Journal: IEEE Trans Neural Syst Rehabil Eng
+",,,,,,,,,,,,,,,,,,,
+2571,"Author: Rubio, N., Parker, R. A., Drost, E. M., Pinnock, H., Weir, C. J., Hanley, J., Mantoani, L. C., MacNee, W., McKinstry, B. and Rabinovich, R. A.
+Year: 2017
+Title: Home monitoring of breathing rate in people with chronic obstructive pulmonary disease: observational study of feasibility, acceptability, and change after exacerbation
+Journal: Int J Chron Obstruct Pulmon Dis
+Volume: 12
+Pages: 1221-1231
+",,,,,,,,,,,,,,,,,,,
+2580,"Author: Ryan, J. M., Walsh, M. and Gormley, J.
+Year: 2014
+Title: A comparison of three accelerometry-based devices for estimating energy expenditure in adults and children with cerebral palsy
+Journal: J Neuroeng Rehabil
+Volume: 11
+Pages: 116
+",,,,,,,,,,,,,,,,,,,
+2596,"Author: Saggio, G., Quitadamo, L. R. and Albero, L.
+Year: 2014
+Title: Development and evaluation of a novel low-cost sensor-based knee flexion angle measurement system
+Journal: Knee
+Volume: 21
+Issue: 5
+Pages: 896-901
+",,,,,,,,,,,,,,,,,,,
+2598,"Author: Sahoo, P. K., Thakkar, H. K. and Lee, M. Y.
+Year: 2017
+Title: A Cardiac Early Warning System with Multi Channel SCG and ECG Monitoring for Mobile Health
+Journal: Sensors (Basel)
+Volume: 17
+Issue: 4
+",,,,,,,,,,,,,,,,,,,
+2602,"Author: Salazar, A. J., Silva, A. S., Silva, C., Borges, C. M., Correia, M. V., Santos, R. S. and Vilas-Boas, J. P.
+Year: 2014
+Title: Low-cost wearable data acquisition for stroke rehabilitation: a proof-of-concept study on accelerometry for functional task assessment
+Journal: Top Stroke Rehabil
+Volume: 21
+Issue: 1
+Pages: 12-22
+",,,,,,,,,,,,,,,,,,,
+2617,"Author: Sama, A., Perez-Lopez, C., Rodriguez-Martin, D., Catala, A., Moreno-Arostegui, J. M., Cabestany, J., de Mingo, E. and Rodriguez-Molinero, A.
+Year: 2017
+Title: Estimating bradykinesia severity in Parkinson's disease by analysing gait through a waist-worn sensor
+Journal: Comput Biol Med
+Volume: 84
+Pages: 114-123
+",,,,,,,,,,,,,,,,,,,
+2625,"Author: Sankarpandi, S. K., Baldwin, A. J., Ray, J. and Mazza, C.
+Year: 2017
+Title: Reliability of inertial sensors in the assessment of patients with vestibular disorders: a feasibility study
+Journal: BMC Ear Nose Throat Disord
+Volume: 17
+Pages: 1
+",,,,,,,,,,,,,,,,,,,
+2652,"Author: Sayeed, T., Sama, A., Catala, A., Rodriguez-Molinero, A. and Cabestany, J.
+Year: 2015
+Title: Adapted step length estimators for patients with Parkinson's disease using a lateral belt worn accelerometer
+Journal: Technol Health Care
+Volume: 23
+Issue: 2
+Pages: 179-94
+",,,,,,,,,,,,,,,,,,,
+2665,"Author: Schlachetzki, J. C. M., Barth, J., Marxreiter, F., Gossler, J., Kohl, Z., Reinfelder, S., Gassner, H., Aminian, K., Eskofier, B. M., Winkler, J. and Klucken, J.
+Year: 2017
+Title: Wearable sensors objectively measure gait parameters in Parkinson's disease
+Journal: PLoS One
+Volume: 12
+Issue: 10
+Pages: e0183989
+",,,,,,,,,,,,,,,,,,,
+2673,"Author: Schoot, T. S., Weenk, M., van de Belt, T. H., Engelen, L. J., van Goor, H. and Bredie, S. J.
+Year: 2016
+Title: A New Cuffless Device for Measuring Blood Pressure: A Real-Life Validation Study
+Journal: J Med Internet Res
+Volume: 18
+Issue: 5
+Pages: e85
+",,,,,,,,,,,,,,,,,,,
+2684,"Author: Schwenk, M., Hauer, K., Zieschang, T., Englert, S., Mohler, J. and Najafi, B.
+Year: 2014
+Title: Sensor-derived physical activity parameters can predict future falls in people with dementia
+Journal: Gerontology
+Volume: 60
+Issue: 6
+Pages: 483-92
+",,,,,,,,,,,,,,,,,,,
+2693,"Author: Seiter, J., Derungs, A., Schuster-Amft, C., Amft, O. and Troster, G.
+Year: 2015
+Title: Daily life activity routine discovery in hemiparetic rehabilitation patients using topic models
+Journal: Methods Inf Med
+Volume: 54
+Issue: 3
+Pages: 248-55
+",,,,,,,,,,,,,,,,,,,
+2694,"Author: Sejdic, E., Lowry, K. A., Bellanca, J., Perera, S., Redfern, M. S. and Brach, J. S.
+Year: 2016
+Title: Extraction of stride events from gait accelerometry during treadmill walking
+Journal: IEEE J Transl Eng Health Med
+Volume: 4
+",,,,,,,,,,,,,,,,,,,
+2729,"Author: Sharifi, A., Varsavsky, A., Ulloa, J., Horsburgh, J. C., McAuley, S. A., Krishnamurthy, B., Jenkins, A. J., Colman, P. G., Ward, G. M., MacIsaac, R. J., Shah, R. and O'Neal, D. N.
+Year: 2016
+Title: Redundancy in Glucose Sensing: Enhanced Accuracy and Reliability of an Electrochemical Redundant Sensor for Continuous Glucose Monitoring
+Journal: J Diabetes Sci Technol
+Volume: 10
+Issue: 3
+Pages: 669-78
+",,,,,,,,,,,,,,,,,,,
+2730,"Author: Sharkey, K. M., Waters, K., Millman, R. P., Moore, R., Martin, S. M. and Bourjeily, G.
+Year: 2014
+Title: Validation of the Apnea Risk Evaluation System (ARES) device against laboratory polysomnography in pregnant women at risk for obstructive sleep apnea syndrome
+Journal: J Clin Sleep Med
+Volume: 10
+Issue: 5
+Pages: 497-502
+",,,,,,,,,,,,,,,,,,,
+2731,"Author: Sharp, C., Soleimani, V., Hannuna, S., Camplani, M., Damen, D., Viner, J., Mirmehdi, M. and Dodd, J. W.
+Year: 2017
+Title: Toward Respiratory Assessment Using Depth Measurements from a Time-of-Flight Sensor
+Journal: Front Physiol
+Volume: 8
+Pages: 65
+",,,,,,,,,,,,,,,,,,,
+2737,"Author: Shen, H., Zhao, J., Zhou, X., Li, J., Wan, Q., Huang, J., Li, H., Wu, L., Yang, S. and Wang, P.
+Year: 2017
+Title: Impaired chronotropic response to physical activities in heart failure patients
+Journal: BMC Cardiovasc Disord
+Volume: 17
+Issue: 1
+Pages: 136
+",,,,,,,,,,,,,,,,,,,
+2774,"Author: Sinha, M., McKeon, K. M., Parker, S., Goergen, L. G., Zheng, H., El-Khatib, F. H. and Russell, S. J.
+Year: 2017
+Title: A Comparison of Time Delay in Three Continuous Glucose Monitors for Adolescents and Adults
+Journal: J Diabetes Sci Technol
+Volume: 11
+Issue: 6
+Pages: 1132-1137
+",,,,,,,,,,,,,,,,,,,
+2783,"Author: Skender, S., Schrotz-King, P., Bohm, J., Abbenhardt, C., Gigic, B., Chang-Claude, J., Siegel, E. M., Steindorf, K. and Ulrich, C. M.
+Year: 2015
+Title: Repeat physical activity measurement by accelerometry among colorectal cancer patients--feasibility and minimal number of days of monitoring
+Journal: BMC Res Notes
+Volume: 8
+Pages: 222
+",,,,,,,,,,,,,,,,,,,
+2785,"Author: Skobel, E., Martinez-Romero, A., Scheibe, B., Schauerte, P., Marx, N., Luprano, J. and Knackstedt, C.
+Year: 2014
+Title: Evaluation of a newly designed shirt-based ECG and breathing sensor for home-based training as part of cardiac rehabilitation for coronary artery disease
+Journal: Eur J Prev Cardiol
+Volume: 21
+Issue: 11
+Pages: 1332-40
+",,,,,,,,,,,,,,,,,,,
+2798,"Author: Victoria MJ Smith, Jonathan S Varsanik, Rachel A Walker, Andrew W Russo, Kevin R Patel,
+Wendy Gabel, Glenn A Phillips, Zebadiah M Kimmel and Eric C Klawiter
+Year: 2018
+Title: Movement measurements at home for multiple sclerosis: walking speed measured by a novel ambient measurement system
+Journal: Mult Scler J Exp Transl Clin
+Volume: 4
+Issue: 1
+Pages: 2055217317753465
+",,,,,,,,,,,,,,,,,,,
+2800,"Author: Smith, Y. K. and Verrett, R. G.
+Year: 2014
+Title: Evaluation of a novel device for measuring patient compliance with oral appliances in the treatment of obstructive sleep apnea
+Journal: J Prosthodont
+Volume: 23
+Issue: 1
+Pages: 31-8
+",,,,,,,,,,,,,,,,,,,
+2822,"Author: Spasojevic, S., Ilic, T. V., Milanovic, S., Potkonjak, V., Rodic, A. and Santos-Victor, J.
+Year: 2017
+Title: Combined Vision and Wearable Sensors-based System for Movement Analysis in Rehabilitation
+Journal: Methods Inf Med
+Volume: 56
+Issue: 2
+Pages: 95-111
+",,,,,,,,,,,,,,,,,,,
+2837,"Author: Stack, E., Agarwal, V., King, R., Burnett, M., Tahavori, F., Janko, B., Harwin, W., Ashburn, A. and Kunkel, D.
+Year: 2018
+Title: Identifying balance impairments in people with Parkinson's disease using video and wearable sensors
+Journal: Gait Posture
+Volume: 62
+Pages: 321-326
+",,,,,,,,,,,,,,,,,,,
+2846,"Author: Stefani, A., Heidbreder, A., Brandauer, E., Guaita, M., Neier, L. M., Mitterling, T., Santamaria, J., Iranzo, A., Videnovic, A., Trenkwalder, C., Sixel-Doring, F., Wenning, G. K., Chade, A., Poewe, W., Gershanik, O. S. and Hogl, B.
+Year: 2018
+Title: Screening for idiopathic REM sleep behavior disorder: usefulness of actigraphy
+Journal: Sleep
+Volume: 41
+Issue: 6
+",,,,,,,,,,,,,,,,,,,
+2849,"Author: Stenerson, M., Cameron, F., Payne, S. R., Payne, S. L., Ly, T. T., Wilson, D. M. and Buckingham, B. A.
+Year: 2015
+Title: The impact of accelerometer use in exercise-associated hypoglycemia prevention in type 1 diabetes
+Journal: J Diabetes Sci Technol
+Volume: 9
+Issue: 1
+Pages: 80-5
+",,,,,,,,,,,,,,,,,,,
+2862,"Author: Storm, F. A., Nair, K. P. S., Clarke, A. J., Van der Meulen, J. M. and Mazza, C.
+Year: 2018
+Title: Free-living and laboratory gait characteristics in patients with multiple sclerosis
+Journal: PLoS One
+Volume: 13
+Issue: 5
+Pages: e0196463
+",,,,,,,,,,,,,,,,,,,
+2897,"Author: Suppa, A., Kita, A., Leodori, G., Zampogna, A., Nicolini, E., Lorenzi, P., Rao, R. and Irrera, F.
+Year: 2017
+Title: l-DOPA and Freezing of Gait in Parkinson's Disease: Objective Assessment through a Wearable Wireless System
+Journal: Front Neurol
+Volume: 8
+Pages: 406
+",,,,,,,,,,,,,,,,,,,
+2907,"Author: Svagard, I., Austad, H. O., Seeberg, T., Vedum, J., Liverud, A., Mathiesen, B. M., Keller, B., Bendixen, O. C., Osborne, P. and Strisland, F.
+Year: 2014
+Title: A usability study of a mobile monitoring system for congestive heart failure patients
+Journal: Stud Health Technol Inform
+Volume: 205
+Pages: 528-32
+",,,,,,,,,,,,,,,,,,,
+2950,"Author: 
+Ruth E. Taylor-Piliae, M. Jane Mohler, Bijan Najafi & Bruce M. Coull
+Year: 2016
+Title: Objective fall risk detection in stroke survivors using wearable sensor technology: a feasibility study
+Journal: Top Stroke Rehabil
+Volume: 23
+Issue: 6
+Pages: 393-399",,,,,,,,,,,,,,,,,,,
+2968,"Author: Thanawattano, C., Pongthornseri, R., Anan, C., Dumnin, S. and Bhidayasiri, R.
+Year: 2015
+Title: Temporal fluctuations of tremor signals from inertial sensor: a preliminary study in differentiating Parkinson's disease from essential tremor
+Journal: Biomed Eng Online
+Volume: 14
+Pages: 101
+",,,,,,,,,,,,,,,,,,,
+3016,"Author: Tran, V. P. and Ali Al-Jumaily, A.
+Year: 2015
+Title: Non-contact dual pulse Doppler system based respiratory and heart rates estimation for CHF patients
+Journal: Conf Proc IEEE Eng Med Biol Soc
+Volume: 2015
+Pages: 4202-5
+",,,,,,,,,,,,,,,,,,,
+3029,"Author: Trost, S. G., Fragala-Pinkham, M., Lennon, N. and O'Neil, M. E.
+Year: 2016
+Title: Decision Trees for Detection of Activity Intensity in Youth with Cerebral Palsy
+Journal: Med Sci Sports Exerc
+Volume: 48
+Issue: 5
+Pages: 958-66
+",,,,,,,,,,,,,,,,,,,
+3040,"Author: Tucker, C. S., Behoora, I., Nembhard, H. B., Lewis, M., Sterling, N. W. and Huang, X.
+Year: 2015
+Title: Machine learning classification of medication adherence in patients with movement disorders using non-wearable sensors
+Journal: Comput Biol Med
+Volume: 66
+Pages: 120-34",,,,,,,,,,,,,,,,,,,
+3050,"Author: Tung, J. Y., Ng, H., Moore, C. and Giangregorio, L.
+Year: 2014
+Title: Can we use accelerometry to monitor balance exercise performance in older adults?
+Journal: Gait Posture
+Volume: 39
+Issue: 3
+Pages: 991-4
+",,,,,,,,,,,,,,,,,,,
+3056,"Author: Tzallas, A. T., Tsipouras, M. G., Rigas, G., Tsalikakis, D. G., Karvounis, E. C., Chondrogiorgi, M., Psomadellis, F., Cancela, J., Pastorino, M., Waldmeyer, M. T., Konitsiotis, S. and Fotiadis, D. I.
+Year: 2014
+Title: PERFORM: a system for monitoring, assessment and management of patients with Parkinson's disease
+Journal: Sensors (Basel)
+Volume: 14
+Issue: 11
+Pages: 21329-57
+",,,,,,,,,,,,,,,,,,,
+3065,"Author: Ummels, D., Beekman, E., Theunissen, K., Braun, S. and Beurskens, A. J.
+Year: 2018
+Title: Counting Steps in Activities of Daily Living in People With a Chronic Disease Using Nine Commercially Available Fitness Trackers: Cross-Sectional Validity Study
+Journal: JMIR Mhealth Uhealth
+Volume: 6
+Issue: 4
+Pages: e70
+",,,,,,,,,,,,,,,,,,,
+3071,"Author: Urovi, V., Jimenez-Del-Toro, O., Dubosson, F., Ruiz Torres, A. and Schumacher, M. I.
+Year: 2017
+Title: COMPOSE: Using temporal patterns for interpreting wearable sensor data with computer interpretable guidelines
+Journal: Comput Biol Med
+Volume: 81
+Pages: 24-31
+",,,,,,,,,,,,,,,,,,,
+3082,"Author: Valenza, G., Nardelli, M., Lanata, A., Gentili, C., Bertschy, G., Paradiso, R. and Scilingo, E. P.
+Year: 2014
+Title: Wearable monitoring for mood recognition in bipolar disorder based on history-dependent long-term heart rate variability analysis
+Journal: IEEE J Biomed Health Inform
+Volume: 18
+Issue: 5
+Pages: 1625-35
+",,,,,,,,,,,,,,,,,,,
+3086,"Author: Van Blarigan, E. L., Kenfield, S. A., Tantum, L., Cadmus-Bertram, L. A., Carroll, P. R. and Chan, J. M.
+Year: 2017
+Title: The Fitbit One Physical Activity Tracker in Men With Prostate Cancer: Validation Study
+Journal: JMIR Cancer
+Volume: 3
+Issue: 1
+Pages: e5
+",,,,,,,,,,,,,,,,,,,
+3091,"Author: van der Weegen, S., Essers, H., Spreeuwenberg, M., Verwey, R., Tange, H., de Witte, L. and Meijer, K.
+Year: 2015
+Title: Concurrent validity of the MOX activity monitor compared to the ActiGraph GT3X
+Journal: Telemed J E Health
+Volume: 21
+Issue: 4
+Pages: 259-66
+",,,,,,,,,,,,,,,,,,,
+3098,"Author: van Laarhoven, S. N., Lipperts, M., Bolink, S. A., Senden, R., Heyligers, I. C. and Grimm, B.
+Year: 2016
+Title: Validation of a novel activity monitor in impaired, slow-walking, crutch-supported patients
+Journal: Ann Phys Rehabil Med
+Volume: 59
+Issue: 5-6
+Pages: 308-313
+",,,,,,,,,,,,,,,,,,,
+3103,"Author: van Schie, M. K., Werth, E., Lammers, G. J., Overeem, S., Baumann, C. R. and Fronczek, R.
+Year: 2016
+Title: Improved vigilance after sodium oxybate treatment in narcolepsy: a comparison between in-field and in-laboratory measurements
+Journal: J Sleep Res
+Volume: 25
+Issue: 4
+Pages: 486-96
+",,,,,,,,,,,,,,,,,,,
+3110,"Author: Vandecasteele, K., De Cooman, T., Gu, Y., Cleeren, E., Claes, K., Paesschen, W. V., Huffel, S. V. and Hunyadi, B.
+Year: 2017
+Title: Automated Epileptic Seizure Detection Based on Wearable ECG and PPG in a Hospital Environment
+Journal: Sensors (Basel)
+Volume: 17
+Issue: 10
+",,,,,,,,,,,,,,,,,,,
+3127,"Author: Vaughan, L., Redline, S., Stone, K., Ulanski, J., Rueschman, M., Dailey, H., Rapp, S. R., Snively, B. M., Baker, L. D. and Shumaker, S. A.
+Year: 2016
+Title: Feasibility of self-administered sleep assessment in older women in the Women's Health Initiative (WHI)
+Journal: Sleep Breath
+Volume: 20
+Issue: 3
+Pages: 1079-91
+Epub Date: 2016/01/31",,,,,,,,,,,,,,,,,,,
+3166,"Author: Vooijs, M., Alpay, L. L., Snoeck-Stroband, J. B., Beerthuizen, T., Siemonsma, P. C., Abbink, J. J., Sont, J. K. and Rovekamp, T. A.
+Year: 2014
+Title: Validity and usability of low-cost accelerometers for internet-based self-monitoring of physical activity in patients with chronic obstructive pulmonary disease
+Journal: Interact J Med Res
+Volume: 3
+Issue: 4
+Pages: e14",,,,,,,,,,,,,,,,,,,
+3168,"Author: Voss, C., Gardner, R. F., Dean, P. H. and Harris, K. C.
+Year: 2017
+Title: Validity of Commercial Activity Trackers in Children With Congenital Heart Disease
+Journal: Can J Cardiol
+Volume: 33
+Issue: 6
+Pages: 799-805",,,,,,,,,,,,,,,,,,,
+3181,"Author: Waliany, S., Dieli-Conwright, C. M., Frankel, P. H., Hurria, A., Chao, J., Tiep, B. and Mortimer, J. E.
+Year: 2014
+Title: Validation and feasibility of a caloric expenditure measuring device in women with early-stage breast cancer
+Journal: Support Care Cancer
+Volume: 22
+Issue: 9
+Pages: 2329-36",,,,,,,,,,,,,,,,,,,
+3187,"Author: Wallen, M. B., Dohrn, I. M., Stahle, A., Franzen, E. and Hagstromer, M.
+Year: 2014
+Title: Comparison of pedometer and accelerometer derived steps in older individuals with Parkinson's disease or osteoporosis under free-living conditions
+Journal: J Aging Phys Act
+Volume: 22
+Issue: 4
+Pages: 550-6",,,,,,,,,,,,,,,,,,,
+3190,"Author: Walton, C., Patel, M., Pitts, D., Knight, P., Hoashi, S., Evans, M. and Turner, C.
+Year: 2014
+Title: The use of a portable breath analysis device in monitoring type 1 diabetes patients in a hypoglycaemic clamp: validation with SIFT-MS data
+Journal: J Breath Res
+Volume: 8
+Issue: 3
+Pages: 037108",,,,,,,,,,,,,,,,,,,
+3231,"Author: Ward, K. L., McArdle, N., James, A., Bremner, A. P., Simpson, L., Cooper, M. N., Palmer, L. J., Fedson, A. C., Mukherjee, S. and Hillman, D. R.
+Year: 2015
+Title: A Comprehensive Evaluation of a Two-Channel Portable Monitor to ""Rule in"" Obstructive Sleep Apnea
+Journal: J Clin Sleep Med
+Volume: 11
+Issue: 4
+Pages: 433-44",,,,,,,,,,,,,,,,,,,
+3235,"Author: Watanabe, A., Noguchi, H., Oe, M., Sanada, H. and Mori, T.
+Year: 2017
+Title: Development of a Plantar Load Estimation Algorithm for Evaluation of Forefoot Load of Diabetic Patients during Daily Walks Using a Foot Motion Sensor
+Journal: J Diabetes Res
+Volume: 2017
+Pages: 5350616",,,,,,,,,,,,,,,,,,,
+3262,"Author: Wendel, N., Macpherson, C. E., Webber, K., Hendron, K., Tamara, D., Cristina, C. S. and Ellis, T.
+Year: 2018
+Title: Accuracy of Activity Trackers in Parkinson Disease: Should We Prescribe Them?
+Journal: Phys Ther
+Epub Date: 2018/05/03",,,,,,,,,,,,,,,,,,,
+3348,"Author: Xu, L., Han, F., Keenan, B. T., Kneeland-Szanto, E., Yan, H., Dong, X., Chang, Y., Zhao, L., Zhang, X., Li, J., Pack, A. I. and Kuna, S. T.
+Year: 2017
+Title: Validation of the Nox-T3 Portable Monitor for Diagnosis of Obstructive Sleep Apnea in Chinese Adults
+Journal: J Clin Sleep Med
+Volume: 13
+Issue: 5
+Pages: 675-683",,,,,,,,,,,,,,,,,,,
+3382,"Author: Yavelberg, L., Zaharieva, D., Cinar, A., Riddell, M. C. and Jamnik, V.
+Year: 2018
+Title: A Pilot Study Validating Select Research-Grade and Consumer-Based Wearables Throughout a Range of Dynamic Exercise Intensities in Persons With and Without Type 1 Diabetes: A Novel Approach
+Journal: J Diabetes Sci Technol
+Volume: 12
+Issue: 3
+Pages: 569-576
+",,,,,,,,,,,,,,,,,,,
+3399,"Author: Younes, M., Soiferman, M., Thompson, W. and Giannouli, E.
+Year: 2017
+Title: Performance of a New Portable Wireless Sleep Monitor
+Journal: J Clin Sleep Med
+Volume: 13
+Issue: 2
+Pages: 245-258
+",,,,,,,,,,,,,,,,,,,
+3402,"Author: Yu, L., Xiong, D., Guo, L. and Wang, J.
+Year: 2016
+Title: A remote quantitative Fugl-Meyer assessment framework for stroke patients based on wearable sensor networks
+Journal: Comput Methods Programs Biomed
+Volume: 128
+Pages: 100-10
+",,,,,,,,,,,,,,,,,,,
+3432,"Author: Zhang, C., Bin Altaf, M. A. and Yoo, J.
+Year: 2016
+Title: Design and Implementation of an On-Chip Patient-Specific Closed-Loop Seizure Onset and Termination Detection System
+Journal: IEEE J Biomed Health Inform
+Volume: 20
+Issue: 4
+Pages: 996-1007
+",,,,,,,,,,,,,,,,,,,
+3458,"Author: Zheng, X., Vieira Campos, A., Ordieres-Mere, J., Balseiro, J., Labrador Marcos, S. and Aladro, Y.
+Year: 2017
+Title: Continuous Monitoring of Essential Tremor Using a Portable System Based on Smartwatch
+Journal: Front Neurol
+Volume: 8
+Pages: 96
+",,,,,,,,,,,,,,,,,,,
+3476,"Author: Zijlstra, W. M. H., Ploegstra, M. J., Vissia-Kazemier, T., Roofthooft, M. T. R., Sarvaas, G. D. M., Bartelds, B., Rackowitz, A., van den Heuvel, F., Hillege, H. L., Plasqui, G. and Berger, R. M. F.
+Year: 2017
+Title: Physical Activity in Pediatric Pulmonary Arterial Hypertension Measured by Accelerometry. A Candidate Clinical Endpoint
+Journal: Am J Respir Crit Care Med
+Volume: 196
+Issue: 2
+Pages: 220-227
+",,,,,,,,,,,,,,,,,,,
+1366,"Author: Jao, Y. L., Gardner, S. E. and Carr, L. J.
+Year: 2017
+Title: Measuring Weight-Bearing Activities in Patients With Previous Diabetic Foot Ulcers
+Journal: J Wound Ostomy Continence Nurs
+Volume: 44
+Issue: 1
+Pages: 34-40
+",,,,,,,,,,,,,,,,,,,
+2626,"Author: Sannino, G., De Falco, I. and De Pietro, G.
+Year: 2014
+Title: An automatic rules extraction approach to support OSA events detection in an mHealth system
+Journal: IEEE J Biomed Health Inform
+Volume: 18
+Issue: 5
+Pages: 1518-24
+",,,,,,,,,,,,,,,,,,,
