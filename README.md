@@ -15,7 +15,7 @@ Sahu V, Balakrishnan M. *ReviewAid: An Open-Source Tool for Efficient PICO-Based
 
 ##  About
 
-This is the **Validation Repository** of ReviewAid. I thank [@Nightraven5115](https://github.com/Nightraven5115) for validating ReviewAid and for all the validation files here.
+This is the **Validation Repository** of ReviewAid. I thank [@Nightraven5115](https://github.com/Nightraven5115) for helping and supporting me for validating ReviewAid.
 
 For more Info on ReviewAid, please check the main repository:
 
