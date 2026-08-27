@@ -4,7 +4,7 @@
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-`Note: This Validation was performed for the initial v2.0.0 and v2.1.0. Later versions have separate validation since the confidence tier system was modified, updated, and made more precise.`
+`Note: This Validation was performed for the initial v2.0.0 and v2.1.0. Later versions will have separate validation in future since the confidence tier system was modified, updated, and made more precise.`
 
 **Code & Archive (Zenodo DOI):** [10.5281/zenodo.18060972](https://doi.org/10.5281/zenodo.18060972)
 
